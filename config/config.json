@@ -1,44 +1,23 @@
 {
-    "VC_Port": 3030,
-    "WS_Port": 1350,
-    "production": true,
-    "key": "details/keys/hivemeet/privkey.pem",
-    "cert": "details/keys/hivemeet/fullchain.pem",
-    "gd_bundle_1": "details/keys/gd_bundle_1.crt",
-    "gd_bundle_2": "details/keys/gd_bundle_2.crt",
-    "gd_bundle_3": "details/keys/gd_bundle_3.crt",
-    "LiveBoxNotificationAlert": [
-         "https://apiqa.myhealthae.com/LiveBox/LiveBoxNotification",
-        "https://mycortexdev1.vjhsoftware.in/LiveBox/LiveBoxNotification",
-        "https://telemedicine.myhealthae.com/LiveBox/LiveBoxNotification",
-        "https://api.hive.clinic/LiveBox/LiveBoxNotification",
-        "https://uatqa.hive.clinic/Livebox/LiveBoxNotification",
-        "https://apiqa.hive.clinic/Livebox/LiveBoxNotification"
-    ],
-    "MyCortexResponseServer": [
-         "https://apiqa.myhealthae.com/Home/LiveBoxNotify",
-        "https://mycortexdev1.vjhsoftware.in/Home/LiveBoxNotify",
-        "https://telemedicine.myhealthae.com/Home/LiveBoxNotify",
-        "https://api.hive.clinic/Home/LiveBoxNotify",
-        "https://uatqa.hive.clinic/Home/LiveBoxNotify",
-        "https://apiqa.hive.clinic/Home/LiveBoxNotify"
-    ],
-    "MyCortexConferenceTimeGetApi": [
-          "https://apiqa.myhealthae.com/Livebox/Get_AppointmentDuration?Conference_ID=",
-        "https://mycortexdev1.vjhsoftware.in/Livebox/Get_AppointmentDuration?Conference_ID=",
-        "https://telemedicine.myhealthae.com/Livebox/Get_AppointmentDuration?Conference_ID=",
-        "https://uatqa.hive.clinic/Livebox/Get_AppointmentDuration?Conference_ID=",
-        "https://api.hive.clinic/Livebox/Get_AppointmentDuration?Conference_ID=",
-        "https://apiqa.hive.clinic/Get_AppointmentDuration?Conference_ID="
-    ],
-    "MyCortexConferenceTimePostApi": [
-        "https://apiqa.myhealthae.com/Livebox/LiveBoxRemainingTimeNotify/",
-        "https://mycortexdev1.vjhsoftware.in/Livebox/LiveBoxRemainingTimeNotify/",
-        "https://uatqa.hive.clinic/Livebox/LiveBoxRemainingTimeNotify/",
-        "https://telemedicine.myhealthae.com/Livebox/LiveBoxRemainingTimeNotify/",
-        "https://api.hive.clinic/Livebox/LiveBoxRemainingTimeNotify/",
-        "https://apiqa.hive.clinic/LiveBoxRemainingTimeNotify/"
-    ],
-    "MyCortexRecordedPath": "/u01/Recordings/"
-  }
-
+  "VC_Port": 3030,
+  "WS_Port": 1350,
+  "production": true,
+  "key": "details/keys/hivemeet/privkey.pem",
+  "cert": "details/keys/hivemeet/fullchain.pem",
+  "gd_bundle_1": "details/keys/gd_bundle_1.crt",
+  "gd_bundle_2": "details/keys/gd_bundle_2.crt",
+  "gd_bundle_3": "details/keys/gd_bundle_3.crt",
+  "LiveBoxNotificationAlert": [
+    "https://apiprod.najah.edu/LiveBox/LiveBoxNotification"
+  ],
+  "MyCortexResponseServer": [
+    "https://apiprod.najah.edu/Home/LiveBoxNotify"
+  ],
+  "MyCortexConferenceTimeGetApi": [
+    "https://apiprod.najah.edu/Livebox/Get_AppointmentDuration?Conference_ID="
+  ],
+  "MyCortexConferenceTimePostApi": [
+    "https://apiprod.najah.edu/Livebox/LiveBoxRemainingTimeNotify/"
+  ],
+  "MyCortexRecordedPath": "/u01/Recordings/"
+}
