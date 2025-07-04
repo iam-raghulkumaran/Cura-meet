@@ -1,0 +1,4 @@
+{"WaitingUserStatus":"Pacino,Al was Waiting for Meeting","conferencename":"cd3d46b1-6c46-4072-9eee-1e8a7c9f89e9","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"11-07-2023 07:33:36","userid":"84","username":"Pacino,Al"}
+{"level":"info","timestamp":"11-07-2023 07:33:36"}
+{"conferencename":"cd3d46b1-6c46-4072-9eee-1e8a7c9f89e9","displayname":"Pacino,Al","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"11-07-2023 07:33:38"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"11-07-2023 07:33:43"}

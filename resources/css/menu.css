@@ -1,0 +1,175 @@
+.menu {
+  width: 275px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-left: 1rem;
+  z-index: 1;
+}
+.menu .logo-wrap {
+  height: 70px;
+  padding-top: 15px;
+}
+.menu .logo-wrap img[alt="Hive"]{ max-width: 110px; }
+.menu .nav li .nav-link{
+    padding: 1rem 1.25rem;
+}
+.menu ul.nav{
+  height: calc(100% - 155px);
+  overflow-y: auto;
+  padding-top: 1rem;
+  flex-wrap: nowrap;
+}
+.menu ul.nav::-webkit-scrollbar,
+.menu ul.nav::-webkit-scrollbar-track{
+  width: 8px;
+}
+.menu .nav li .nav-link.active{ 
+  border-radius: 40px 0px 0px 40px; 
+  position: relative;
+}
+.menu .nav li a i{ 
+    margin-right: 1.5rem;
+    font-size: 1.15rem;
+    line-height: 1;
+    vertical-align: middle;
+    height: 22px;
+}
+.menu .nav li .nav-link.active:before, 
+.menu .nav li .nav-link.active:after{
+  content: "";
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: 0px;
+}
+.menu .nav li .nav-link.active:before {
+  top: -25px;
+  border-radius: 0px 0px 20px 0px;
+}
+.menu .nav li .nav-link.active:after {
+  bottom: -25px;
+  border-radius: 0px 20px 0px 0px;
+}
+
+.nav-collapse .menu{
+    width: 100px;
+    padding: 0;
+    text-align: center;
+}
+.nav-collapse .menu .logo-wrap{
+    justify-content: center;
+    padding-left: 0 !important;
+}
+.nav-collapse .menu .logo-wrap img[alt="Hive"]{ max-width: 70px; }
+.nav-collapse .menu .nav li a i{
+    margin-right: 0;
+}
+.nav-collapse .nav span{ display: none;}
+.wrapper{
+  width: calc(100% - 275px);
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  overflow: auto;
+}
+.wrapper{ border-radius: 40px 0px 0px 40px; }
+.nav-collapse .wrapper{
+    width: calc(100% - 100px);
+}
+
+.nav-collapse .menu .nav li .nav-link.active:after,
+.nav-collapse .menu .nav li .nav-link.active:before{
+  display: none;
+}
+.nav-collapse .menu .nav li .nav-link.active{
+  border-radius: 10px;
+}
+.nav-collapse .menu .nav li .nav-link{
+  width: 60px;
+  margin: auto;
+}
+.nav-collapse .menu .nav li a i{
+  line-height: 28px;
+}
+.nav-collapse .menu .ps-3{
+  padding-left: 0 !important;
+}
+
+/* Hamburger */
+
+.hamburger .line {
+  height: 5px;
+  border-radius: 10px;
+  transition: all 0.5s ease;
+}
+.hamburger .line {
+  width: 40px;
+}
+.hamburger .line.top,
+.hamburger .line.bottom {
+  width: 30px;
+}
+.hamburger .top {
+  transform: translate(10px, -4px);
+}
+.hamburger .bottom {
+  transform: translate(10px, 4px);
+}
+.hamburger:hover {
+  cursor: pointer;
+}
+.hamburger:hover .top,
+.hamburger:hover .bottom,
+.nav-collapse .hamburger:hover .top,
+.nav-collapse .hamburger:hover .bottom {
+  width: 20px;
+}
+.hamburger:hover .top {
+  transform: translate(0px, -2px) rotate(-40deg);
+}
+.hamburger:hover .bottom {
+  transform: translate(0px, 2px) rotate(40deg);
+}
+.nav-collapse .hamburger:hover .top {
+  transform: translate(20px, -2px) rotate(40deg);
+}
+.nav-collapse .hamburger:hover .bottom {
+  transform: translate(20px, 2px) rotate(-40deg);
+}
+.build-wrap{
+  width: 275px;
+}
+.nav-collapse .build-wrap{
+  width: 100px;
+}
+.build-icon{
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 2.4;
+  display: none;
+}
+.nav-collapse .build-icon{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.nav-collapse .build-details{
+  position: absolute;
+  width: 180px;
+  left: 90px;
+  top: 0;
+  padding: 5px;
+  border-radius: 5px;
+  display: none;
+  margin-left: 0.25rem!important;
+}
+.nav-collapse .build-icon:hover + .build-details{
+  display: block;
+}
+.institution .menu{
+  padding-left: 0rem;
+}

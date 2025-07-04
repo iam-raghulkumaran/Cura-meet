@@ -1,0 +1,9 @@
+{"WaitingUserStatus":"Gambon,Melody was Waiting for Meeting","conferencename":"7aa25e41-fdd2-47a1-86d9-bad8e99a1779","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"31-03-2023 15:42:10","userid":"264","username":"Gambon,Melody"}
+{"level":"info","timestamp":"31-03-2023 15:42:11"}
+{"channelLink":"https://meet.hive.clinic:3030/recordedvideos/7aa25e41-fdd2-47a1-86d9-bad8e99a1779/","conferencename":"7aa25e41-fdd2-47a1-86d9-bad8e99a1779","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"MGHa4yNpTXNdDrCJAAMZ","recording":true,"timestamp":"31-03-2023 15:48:16","userid":"262"}
+{"conferencename":"7aa25e41-fdd2-47a1-86d9-bad8e99a1779","displayname":"Gambon,Melody","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"qxbWT43oBWwzI9DwAAMS","recording":true,"status":"Gambon,Melody was Waiting for Meeting","timestamp":"31-03-2023 15:48:18","userid":"264"}
+{"AcceptStatus":"Gambon,Melody accepeted","conferencename":"7aa25e41-fdd2-47a1-86d9-bad8e99a1779","level":"info","message":"Data to LiveBoxNotify API","timestamp":"31-03-2023 15:48:18","username":"Gambon,Melody"}
+{"AcceptStatus":"Gambon,Melody accepeted","conferencename":"7aa25e41-fdd2-47a1-86d9-bad8e99a1779","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"31-03-2023 15:48:18","username":"Gambon,Melody"}
+{"level":"info","timestamp":"31-03-2023 15:48:18"}
+{"conferencename":"7aa25e41-fdd2-47a1-86d9-bad8e99a1779","displayname":"Gambon,Melody","isadmin":false,"level":"info","message":"Joined the conference","peerid":"qxbWT43oBWwzI9DwAAMS","recording":true,"status":"Gambon,Melody was Waiting for Meeting","timestamp":"31-03-2023 15:48:18","userid":"264"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"31-03-2023 15:48:19"}

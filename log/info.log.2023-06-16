@@ -1,0 +1,6 @@
+{"WaitingUserStatus":"test was Waiting for Meeting","conferencename":"617830b6-c08e-4cee-aad4-cebd011a15cd","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"16-06-2023 07:31:19","userid":"1686900672443","username":"test"}
+{"level":"info","timestamp":"16-06-2023 07:31:19"}
+{"conferencename":"617830b6-c08e-4cee-aad4-cebd011a15cd","displayname":"Test","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"16-06-2023 07:31:22"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"16-06-2023 07:31:23"}
+{"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"16-06-2023 07:33:52"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"16-06-2023 07:33:53"}

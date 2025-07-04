@@ -1,0 +1,504 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=no"/>
+    <title>VIDEO CONFERENCE</title>
+    <link rel="stylesheet" href="../resources/vendors/bootstrap/bootstrap-icons-1.8.1/bootstrap-icons.css">
+    <link rel="stylesheet" href="../resources/vendors/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="../resources/vendors/avatar.min.css">
+    <link rel="stylesheet" href="../resources/vendors/jquery/jquery_UI/jquery-ui.min.css">
+    <link rel="stylesheet" href="../resources/css/style.css">
+    <!-- link through the manifest json file -->
+
+    <!--<link rel="manifest" href="../resources/js/pwa/pwa-js/pwa.webmanifest">-->
+    <!-- link through dynamic url on manifest jsonfile -->
+    <!--     <link rel="manifest" id="my-manifest-url">
+ -->
+    <!-- link through icons on image folder  -->
+    <link rel="apple-touch-icon" href="../resources/js/pwa/pwa-js/pwa-icons/icon-192x192.png" />
+    <link rel="apple-touch-icon" href="../resources/js/pwa/pwa-js/pwa-icons/icon-256x256.png" />
+    <link rel="apple-touch-icon" href="../resources/js/pwa/pwa-js/pwa-icons/icon-384x384.png" />
+    <link rel="apple-touch-icon" href="../resources/js/pwa/pwa-js/pwa-icons/icon-512x512.png" />
+
+    <!-- adding PWA meta tag theme color -->
+    <meta name="theme-color" content="#A312FC" />
+    <!-- adding jquery UI  -->
+    <link rel="stylesheet" href="../resources/vendors/jquery/jquery_UI/jquery-ui.css">
+    <link rel="stylesheet" href="../resources/vendors/jquery/jquery_UI/jquery-ui.min.css">
+
+</head>
+
+<body>
+    <!-- Waiting room for guest users-->
+    <div id="load" class="text-center waiting-room" style="display: none">
+        <div
+            class="offset-1 col-10 offset-sm-2 col-sm-8 offset-md-3 col-md-6 offset-lg-3 col-lg-6 offset-xl-4 col-xl-4 align-self-center" style="height:0px">
+            <br /><br />
+        </div>
+    </div>
+
+    <!-- Display all connected users in the conference -->
+
+    <!-- Modified Display all connected users in the conference -->
+
+    <!-- background Avatars -->
+    <div id="connectionBlk" class="container h-100 d-flex  align-items-center justify-content-center">
+       <!--  <div id="avatarBg" class="card position-absolute rounded-circle">-->
+        <div class="card text-center border-0 m-0">
+            <!-- <span><i class="bi bi-person  img-fluid" style="font-size:5rem; color: #f4e8fd;"></i></span> -->
+            <span id="avatarBg" class="rounded-pill m-0"><i class="bi bi-person" style="font-size:4rem; color: #f4e8fd;"></i></span>
+            <span class="mt-2 connectText text-nowrap" style="font-weight: bold; color: #100146;">
+                Connecting...
+            </span>
+        </div>
+    </div>
+
+    <!-- StreamedVideos -->
+    <div id="streamingVideoBlk"  class="container-fluid d-none m-0 px-4" id="videos">
+       <!-- <div id="MediaRow" class="row vh-100 align-items-end justify-content-lg-around"> -->
+        <div id="MediaRow" class="row">
+            <div class="ps-3 mediaHeader">
+	        <h4 class="py-3 py-md-4 border-bottom mb-0 fs-6 fw-semibold">Meeting</h4>
+            </div>
+            <!-- conference Time -->
+	    <div class="container my-2 my-md-3">
+             <!-- <div id="conferencetimer" class="card position-absolute d-none"> -->
+	     <div id="conferencetimer" class="card hstack border-0 d-none">
+	        <div id="RecordingSymbol" ></div>
+            	<div id="clockdiv" class="card-body hstack justify-content-between  p-0 ps-3 text-start">
+                        <span class="RecordText me-2"></span>
+                        <div class="conferencetimerwrap" >
+			<span class="ConferenceTimeText position-relative"></span>
+                	<span id="ConferenceMinutes" class="minutes" style="font-size: 1rem; color: #b7b7b7;"></span>
+                	<span id="timeColon" style="font-size: 1rem; color: #b7b7b7;"> : </span>
+                	<span id="ConferenceSeconds" class="seconds" style="font-size: 1rem; color: #b7b7b7;"></span>
+                	<!--<span class="RecordText"></span> -->
+                        </div>
+            	</div>
+              </div>
+   	    </div>
+            <!-- MediaStream  -->
+            <!--<div id="MediaStream" class="col-12 offset-lg-9 col-lg-2 text-center text-lg-end mb-3">-->
+            <div id="MediaStream" class="position-relative col-12 mb-0">
+                <div id="VisualMedia" class="mx-0 position-relative"></div>
+                <button class="btn btn-sm white-color pe-auto p-2 mx-2" type="button" id="scrollDown" style="font-size: 1rem;" title="Scroll to see participant">
+                  <i class="flaticon-scroll-bar"></i>
+                </button>
+		  <input type="file" id="file-input" style="display: none;">
+	
+ <!-- caption blk  -->
+ <div id="caption-wrapper" style="display:none;">
+    <!-- main speaker  -->
+   <div class="main-speaker speakers"  style="display:none;" >
+      <div class="speaker-info d-flex align-items-center">
+        <!-- <div class="speaker-img">SR</div>-->
+         <div class="mainspeaker-name ps-2"></div>
+      </div>
+      <div class="mainspeaker-text">
+
+      </div>
+   </div>
+   <!-- participant  -->
+   <div class="participant-speaker speakers"  style="display:none;">
+      <div class="speaker-info d-flex align-items-center">
+         <!--<div class="speaker-img">RR</div>-->
+         <div class="participantspeaker-name ps-2"></div>
+      </div>
+      <div class="participantspeaker-text">
+
+      </div>
+   </div>
+        <!-- showing the text intella testversion translating language  -->
+<div id="TestingBeta-text" class="transLang text-center mt-0" style="font-size: 0.745rem">arabic transcription testing( powered by intella ) </div>
+</div>
+
+            </div>
+        </div>
+
+	<!-- Footer  -->
+ <div class="footer text-center  px-5">
+     <div class="togglerBlkWrap d-inline-block position-relative">
+    <i id="idVideo" data-bs-toggle="tooltip" data-bs-placement="top" title="Video"
+        class="clsIcons flaticon-video-camera m-1"></i>
+
+    <i id="idSettings" data-bs-toggle="modal" data-bs-target="#idMediaCaptureSettingsModal"
+        class="clsIcons flaticon-settings m-1"></i>
+
+    <a id="idEndCall"><i title="End call" class="clsIcons flaticon-telephone selected  m-1"></i></a>
+
+         <i id="idAudio" data-bs-toggle="tooltip" data-bs-placement="top" title="Audio"
+        class="clsIcons flaticon-mute-button selected  m-1" style="display: none;" ></i>
+
+    <i id="idToggle" style="display: none;"  data-bs-toggle="tooltip" data-bs-placement="top" title="Toggle-buttons"
+        class="clsIcons flaticon-menu m-1"></i>
+
+    <div id="WrapperToggleBlk" class="togglerBlkIn d-inline-block">
+        <span>
+        <i id="idChat" data-bs-toggle="modal" data-bs-target="#modalChat" class="clsIcons flaticon-message m-1"></i>
+        <i id="chatNotification" class="notification d-none bi bi-exclamation-circle-fill"></i>
+    </span>
+
+    <span class="muteall-btn text-center" style="display: none;">
+        <i style="display: none;" data-bs-toggle="tooltip" data-bs-placement="top" title="Mute all"
+            id="muteall" class="clsIcons flaticon-multiple-mute  m-1"><br>
+
+        </i>
+    </span>
+    <i style="display: none" data-bs-toggle="tooltip" data-bs-placement="top" title="Mute all" id="muteall"
+        class="clsIcons bi bi-volume-mute-fill m-1"></i>
+
+
+    <i style="display: none" data-bs-toggle="tooltip" data-bs-placement="top" title="switch camera" id="switchcamera"
+        class="clsIcons flaticon-refresh  m-1"></i>
+
+    <span class="Particaipants-btn" style="display: none;">
+        <i id="idParticipants" style="display: none" data-bs-toggle="modal" data-bs-target="#modalParticipants"
+            class="clsIcons flaticon-group m-1"></i>
+    </span>
+<span><i id="participantsNotification" class="notification d-none bi bi-exclamation-circle-fill"></i> </span>
+<!-- toggling video object-fit size -->
+<span>  <i id="ToggleVideoSize" class=" clsIcons flaticon-full-screen"></i> </span>
+
+<!-- ** new tab at video conference **-->
+<span><i id="newtab-btn" class="clsIcons flaticon-new-tab" title="NewTab" style="display: none"></i> </span>
+
+<!-- screen shot button -->
+
+<!-- <span> <i id="idScreenShot" class="clsIcons flaticon-capture" style="display: none;"></i></span> -->
+
+<!-- ** Closed Caption feature **-->
+
+<!-- <span>
+    <i id="idCaption" class="clsIcons flaticon-subtitles"></i>
+</span> -->
+
+</div></div></div>
+
+<!-- <div class="footer text-center  px-5">
+     <div class="togglerBlkWrap d-inline-block position-relative">
+    <i id="idVideo" data-bs-toggle="tooltip" data-bs-placement="top" title="Video"
+        class="clsIcons flaticon-video-camera m-1"></i>
+
+    <i id="idSettings" data-bs-toggle="modal" data-bs-target="#idMediaCaptureSettingsModal"
+        class="clsIcons flaticon-settings m-1"></i>
+
+    <a id="idEndCall"><i title="End call" class="clsIcons flaticon-telephone selected  m-1"></i></a>
+    <span>
+        <i id="idChat" data-bs-toggle="modal" data-bs-target="#modalChat" class="clsIcons flaticon-message m-1"></i>
+        <i id="chatNotification" class="notification d-none bi bi-exclamation-circle-fill"></i>
+    </span>
+  
+    <i id="idToggle" data-bs-toggle="tooltip" data-bs-placement="top" title="Toggle-buttons"
+        class="clsIcons flaticon-menu m-1"></i>
+    
+    <div class="togglerBlkIn d-inline-block">
+    <i id="idAudio" data-bs-toggle="tooltip" data-bs-placement="top" title="Audio"
+        class="clsIcons flaticon-mute-button selected  m-1" style="display: none;" ></i>
+
+    <span class="muteall-btn text-center" style="display: none;">
+        <i style="display: none;" data-bs-toggle="tooltip" data-bs-placement="top" title="Mute all"
+            id="muteall" class="clsIcons flaticon-multiple-mute  m-1"><br>
+        </i>
+    </span>
+    <i style="display: none" data-bs-toggle="tooltip" data-bs-placement="top" title="Mute all" id="muteall"
+        class="clsIcons bi bi-volume-mute-fill m-1"></i>
+
+    <i style="display: none" data-bs-toggle="tooltip" data-bs-placement="top" title="switch camera" id="switchcamera"
+        class="clsIcons flaticon-refresh  m-1"></i>
+
+    <span class="Particaipants-btn" style="display: none;">
+        <i id="idParticipants" style="display: none" data-bs-toggle="modal" data-bs-target="#modalParticipants"
+            class="clsIcons flaticon-group m-1"></i>
+    </span>
+<span><i id="participantsNotification" class="notification d-none bi bi-exclamation-circle-fill"></i> </span>
+      
+
+</div></div></div> -->
+
+    </div>
+
+
+    <!--  This is only for admin -->
+    <div id="Main" style="display: none"></div>
+
+    <!-- Display name Modal popup-->
+    <div class="modal fade" id="iddisplaynamemodal" tabindex="-1" role="dialog" data-bs-backdrop="static"
+        data-bs-keyboard="false">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-center">Display name</h5>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="idconferencename">Conference name:</label>
+                        <input type="text" class="form-control" placeholder="Enter Conference name"
+                            id="idconferencename">
+                    </div>
+                    <div class="mb-3">
+                        <label for="iddisplayname">Display name:</label>
+                        <input type="text" class="form-control" placeholder="Enter your name" id="iddisplayname"
+                            required>
+                    </div>
+                    <div class="form-group">
+
+                        <label class="form-check-label"><input type="checkbox" id="idisAdmin"> Are you admin ?</label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="idJoin">OK</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!--  Media Capture settings Modal poup  -->
+    <div class="modal fade" tabindex="-1" role="dialog" id="idMediaCaptureSettingsModal" aria-hidden="true">
+        <div class="modal-dialog">
+
+            <div class="modal-content rounded-c4" style="border-color: #dee2e6">
+                <div class="modal-header py-2">
+                    <button type="button" class="btn-close m-0 position-absolute opacity-100" data-bs-dismiss="modal" aria-label="Close">
+                      <i class="flaticon-left-arrow fs-3 " style="margin-top: -13px;"></i>
+                    </button>
+                    <h4 class="modal-title module-title py-1 mx-auto fw-bold">Settings</h4>
+                    <!--<i class="clsIcons bi bi-x fs-6 p-0 rounded-pill" data-bs-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true"></span></i>-->
+                </div>
+                <div class="modal-body">
+                    <h5 class="fs-6">Preview</h5>
+                    <div class="form-group text-center">
+                        <video playsinline id="preview" class="mirroron" width="50%" height="auto" autoplay
+                            loop></video>
+                    </div>
+
+                    <div class="mb-3">
+                        <div class="form-label mb-0">Camera</div>
+                        <select class="form-select px-2" id="videoinput"></select>
+                    </div>
+                    <div class="mb-3">
+                        <div class="form-label mb-0">Mic</div>
+                        <select class="form-select px-2" id="audioinput"></select>
+                    </div>
+                    <div class="d-none">
+                        <div class="form-label mb-0">Speakers</div>
+                        <select class="form-select px-2" id="audiooutput"></select>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- CHAT Modal -->
+    <div class="modal right fade" id="modalChat" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2">
+        <div class="modal-dialog  h-auto p-1 mt-4 me-3" role="document">
+		<!-- background-color: #F5F5F5; --> 
+            <div class="modal-content" style="background-color:rgba(245, 245, 245 , .85); border-radius: 1rem;">
+                <div class="modal-header justify-content-end">
+                    <i class="clsIcons modalClose bi bi-x" data-bs-dismiss="modal" aria-label="Close"
+                        style="background: #100146;"><span aria-hidden="true"></i>
+                    <!-- <h4 class="modal-title" id="myModalLabel2">Chat</h4> -->
+                </div>
+                <div class="modal-body p-0">
+                    <div id="ChatBox">
+                        <ul id="messages" class="text-end"></ul>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <div class="input-group rounded-c4 bs-1 p-2 bg-white align-items-center">
+                        <input type="text" class="form-control" id="input" autocomplete="off"
+                            placeholder="Write a message..." required aria-label="Enter message"
+                            aria-describedby="basic-addon2">
+                        <div class="input-group-append mt-0 d-flex">
+                            <button class="btn btn-primary w-100 fs-5 p-2" type="button" id="sendmessage" style="background-color: #100146;"><i class="bi bi-send"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- modal-content -->
+        </div><!-- modal-dialog -->
+    </div><!-- modal -->
+
+
+    <!-- PARTICIPANTS Modal -->
+	    <div class="modal fade" id="modalParticipants" tabindex="-1" role="dialog" aria-labelledby="modalParticipants">
+        <div class="modal-dialog modal-sm"  role="document">
+            <div class="modal-content" style="border-radius: 1rem; border-color: #dee2e6;">
+                <div class="modal-header py-2  text-center">
+                    <!-- <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button> -->
+                    <button type="button" class="btn-close m-0 position-absolute opacity-100" data-bs-dismiss="modal" aria-label="Close">
+                      <i class="flaticon-left-arrow fs-3 " style="margin-top: -13px;"></i>
+                    </button>
+                    <!-- <i class="clsIcons bi bi-x" data-bs-dismiss="modal" aria-label="Close"><span aria-hidden="true"></i> -->
+                    <h6 class="modal-title module-title fw-bold w-100 py-1" style="letter-spacing: 0.5 ">Participants</h6>
+                </div>
+                <div class="modal-body">
+                    <div id="Waiting">
+                        <div class="card-body my-3 py-1">
+                            <div id="acceptdeclineid"></div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- modal-content -->
+        </div><!-- modal-dialog -->
+    </div><!-- modal -->
+
+ <!-- Offline Modal -->
+    <div class="modal fade " id="Offline" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div id="network">
+                        <div class="modal-body  border-0">
+                            <div class="mb-4 text-center">No Internet Connection Try Again!</div>
+                            <div id="RetryCancel" class="hstack justify-content-between">
+                                <span id="retrybtn" class="btn">RETRY</span>
+                                <span id="cancellbtn" class="btn">CANCEL</span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- Modal for displaying screenshot and options -->
+
+<div class="modal fade" tabindex="-1" role="dialog" id="screenshotModal" aria-hidden="true">
+    <div class="modal-dialog">
+
+        <div class="modal-content rounded-c4" style="border-color: #dee2e6">
+            <div class="modal-header py-2">
+                <button type="button" class="btn-close m-0 position-absolute opacity-100" data-bs-dismiss="modal" aria-label="Close">
+                  <i class="flaticon-left-arrow fs-3 " style="margin-top: -13px;"></i>
+                </button>
+                <h4 class="modal-title module-title py-1 mx-auto fw-bold">Screenshot</h4>
+                <!--<i class="clsIcons bi bi-x fs-6 p-0 rounded-pill" data-bs-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true"></span></i>-->
+            </div>
+            <div class="modal-body">
+                <h5 class="fs-6">Preview</h5>
+                <div class="form-group text-center">
+                    <img id="screenshotPreview" src="#" alt="Screenshot" style="max-width: 75%; height: auto;">
+                </div>
+
+                <div class="mb-3">
+                    <div class="mt-2">
+                        <label for="imageName">Image Name:</label>
+                        <input type="text" class="form-control" id="imageName" placeholder="Enter image name" autocomplete="off">
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="saveScreenshot">Save</button>
+                <button type="button" class="btn btn-secondary"  data-bs-dismiss="modal" aria-label="Close">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+  <link rel="preload" href="../resources/css/base.css" as="style" onload="this.rel='stylesheet'" />
+  <link rel="preload" href="../resources/css/home-layout.css" as="style" onload="this.rel='stylesheet'" />
+  <link rel="preload" href="../resources/css/menu.css" as="style" onload="this.rel='stylesheet'" />
+  <link rel="preload" href="../resources/css/components.css" as="style" onload="this.rel='stylesheet'" />
+  <link rel="preload" href="../resources/css/theme/light.css" as="style" onload="this.rel='stylesheet'" />
+  <!--<link rel="preload" href="../resources/css/fonts/flaticon/flaticon.css" as="style" onload="this.rel='stylesheet'" />-->
+  <link rel="preload" href="../resources/css/fonts/flaticon/flaticon_hive_video_conference.css" as="style" onload="this.rel='stylesheet'" />
+  <noscript> 
+    <link rel="stylesheet" href="../resources/css/base.css" />
+    <link rel="stylesheet" href="../resources/css/home-layout.css" />
+    <link rel="stylesheet" href="../resources/css/menu.css" />
+    <link rel="stylesheet" href="../resources/css/components.css" />
+    <link rel="stylesheet" href="../resources/css/theme/light.css" />
+    <!--<link rel="stylesheet" href="../resources/css/fonts/flaticon/flaticon.css" />-->	
+    <link rel="stylesheet" href="../resources/css/fonts/flaticon/flaticon_hive_video_conference.css" />
+ </noscript>
+
+    <!-- Start Default scripts -->
+    <script src="../resources/vendors/jquery/jquery-3.6.0.min.js"></script>
+    <script src="../resources/vendors/jquery/jquery-dateformat.js"></script>
+    <script src="../resources/vendors/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="../resources/vendors/notiflix-aio-2.7.0.min.js"></script>
+    <script src="../resources/vendors/adapter-latest.js"></script>
+    <!-- <script src="/socket.io/socket.io.js"></script>-->
+    <script src="../resources/vendors/socket/socket.io.js"></script>
+
+<!-- moment-timezone-->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.32/moment-timezone-with-data.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-duration-format/2.3.2/moment-duration-format.min.js" integrity="sha512-ej3mVbjyGQoZGS3JkES4ewdpjD8UBxHRGW+MN5j7lg3aGQ0k170sFCj5QJVCFghZRCio7DEmyi+8/HAwmwWWiA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Jquery UI -->
+    <script src="../resources/vendors/jquery/jquery_UI/jquery-ui.min.js"></script>
+    <script src="../resources/vendors/jquery/jquery_UI/jquery.ui.touch-punch.min.js"></script>
+
+<!-- html2canvas -->
+<script src="../resources/vendors/html2canvas/html2canvas.min.js"></script>
+
+
+    <!-- Custom scripts -->
+    <script src="../resources/js/Animation/Pen.js"></script>
+    <script src="../resources/js/UI/commonfunctions.js"></script>
+    <script src="../resources/js/UI/network.js" type="module"></script>
+    <!-- <script src="../resources/js/UI/video-layout.js"></script> -->
+    <!-- Custom scripts as Module -->
+    <script src="./main.js" type="module"></script>
+
+    <!-- adding the pwa.js file in script tag -->
+    <!-- <script src="../resources/js/pwa/pwa-js/pwa.js"></script>-->
+
+    <!-- adding jquery UI  -->
+   <!-- <script src="../resources/vendors/jquery/jquery_UI/jquery-ui.js"></script>-->
+    <script src="../resources/vendors/jquery/jquery_UI/jquery-ui.min.js"></script>
+    <script src="../resources/vendors/jquery/jquery_UI/jquery.ui.touch-punch.min.js"></script>
+
+   <!--cordova-->
+
+    <script>
+	
+        //  For browser videolayout
+        var useragent = navigator.userAgent;
+
+        // For use within normal web clients                                                                                                                                                             
+        var isIphone = navigator.userAgent.match(/iPhone|iPad|iPod/i) != null;
+        var realdevice;
+        // For use within iphone developer UIWebView                                                                                                                                                        
+
+        var isIphone = /iPhone|iPad|iPod/i.test(useragent) || /iPhone|iPad|iPod/i.test(useragent) || /iPhone|iPad|iPod/i.test(useragent);
+        if (isIphone) {
+
+            document.write('<script type="text/javascript"  src="../resources/js/UI/Cordova/ios/cordova_listener.js"><\/script>')
+            document.write('<script type="text/javascript" src="../resources/js/UI/Cordova/ios/www/www/cordova.js"><\/script>');
+            // For ios Layout
+            //document.write('<script type="text/javascript" src="../resources/js/UI/App-video_layout.js"><\/script>');      
+
+        } else if (realdevice) {
+            document.write('<script type="text/javascript"  src="../resources/js/UI/Cordova/ios/cordova_listener.js"><\/script>')
+            document.write('<script type="text/javascript"  src="../resources/js/UI/Cordova/ios/client_cordova/client_WWFolder/www/cordova.js"><\/script>');
+            // For ios Layout
+            // document.write('<script type="text/javascript" src="../resources/js/UI/App-video_layout.js"><\/script>');   
+
+        }
+
+
+        //   Android                                                                                                                                                                                         
+        var isAndroid = navigator.userAgent.match(/Android/i) != null;
+        var isAndroid = /Android/i.test(useragent) || /Android/i.test(useragent) || /Android/i.test(useragent);
+        if (isAndroid) {
+
+            document.write('<script type="text/javascript" src="../resources/js/UI/Cordova/android/Event_listener.js"><\/script> <script type="text/javascript" src="../resources/js/UI/Cordova/android/platform_www/cordova.js" ><\/script>');
+            //document.write('<script type="text/javascript" src="../resources/js/UI/App-video_layout.js"><\/script>');
+        }
+
+
+    </script>
+
+</body>
+
+</html>

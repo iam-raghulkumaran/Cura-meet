@@ -1,0 +1,12 @@
+{"WaitingUserStatus":"Patient was Waiting for Meeting","conferencename":"96cebd57-6f3f-4860-9a44-64d042dedbb5","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"31-01-2024 05:48:56","userid":"1706680134521","username":"Patient"}
+{"WaitingUserStatus":"Patient was Waiting for Meeting","conferencename":"96cebd57-6f3f-4860-9a44-64d042dedbb5","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"31-01-2024 05:48:56","userid":"1706680134521","username":"Patient"}
+{"level":"info","timestamp":"31-01-2024 05:48:58"}
+{"level":"info","timestamp":"31-01-2024 05:48:58"}
+{"conferencename":"96cebd57-6f3f-4860-9a44-64d042dedbb5","displayname":"Patient","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"31-01-2024 05:49:06"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"31-01-2024 05:49:06"}
+{"WaitingUserStatus":"Melody was Waiting for Meeting","conferencename":"400473c9-115f-4132-8156-54ded4f6525a","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"31-01-2024 08:57:58","userid":"1706691476577","username":"Melody"}
+{"WaitingUserStatus":"Melody was Waiting for Meeting","conferencename":"400473c9-115f-4132-8156-54ded4f6525a","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"31-01-2024 08:57:58","userid":"1706691476577","username":"Melody"}
+{"level":"info","timestamp":"31-01-2024 08:57:59"}
+{"level":"info","timestamp":"31-01-2024 08:57:59"}
+{"conferencename":"400473c9-115f-4132-8156-54ded4f6525a","displayname":"Melody","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"31-01-2024 08:57:59"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"31-01-2024 08:58:00"}

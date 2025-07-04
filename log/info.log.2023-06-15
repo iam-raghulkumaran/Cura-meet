@@ -1,0 +1,16 @@
+{"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-06-2023 11:09:58"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-06-2023 11:09:59"}
+{"WaitingUserStatus":"Patient was Waiting for Meeting","conferencename":"925a6f34-9d0c-4418-852e-01862a43494a","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-06-2023 11:13:31","userid":"1686827604166","username":"Patient"}
+{"level":"info","timestamp":"15-06-2023 11:13:31"}
+{"conferencename":"925a6f34-9d0c-4418-852e-01862a43494a","displayname":"Patient","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-06-2023 11:13:48"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-06-2023 11:13:49"}
+{"WaitingUserStatus":"Patient was Waiting for Meeting","conferencename":"925a6f34-9d0c-4418-852e-01862a43494a","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-06-2023 11:14:11","userid":"1686827644758","username":"Patient"}
+{"level":"info","timestamp":"15-06-2023 11:14:11"}
+{"conferencename":"925a6f34-9d0c-4418-852e-01862a43494a","displayname":"Patient","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-06-2023 11:14:30"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-06-2023 11:14:31"}
+{"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-06-2023 12:11:59"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-06-2023 12:12:00"}
+{"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-06-2023 12:19:36"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-06-2023 12:19:37"}
+{"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-06-2023 12:24:17"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-06-2023 12:24:25"}

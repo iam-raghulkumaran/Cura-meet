@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "flaticon_hive_video_conference";
+    src: url("./flaticon_hive_video_conference.ttf") format("truetype"),
+         url("./flaticon_hive_video_conference.woff?") format("woff"),
+         url("./flaticon_hive_video_conference.woff2?") format("woff2"),
+}
+
+i[class^="flaticon-"]{
+    display: inline-block;
+    height: 0;
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_hive_video_conference !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-mute-button:before {
+    content: "\f101";
+}
+.flaticon-microphone:before {
+    content: "\f102";
+}
+.flaticon-settings:before {
+    content: "\f103";
+}
+.flaticon-message:before {
+    content: "\f104";
+}
+.flaticon-video-camera:before {
+    content: "\f105";
+}
+.flaticon-friends:before {
+    content: "\f106";
+}
+.flaticon-missed-call:before {
+    content: "\f107";
+}
+.flaticon-multiple-mute:before {
+    content: "\f108";
+}
+.flaticon-no-video:before {
+    content: "\f109";
+}
+.flaticon-record:before {
+    content: "\f10a";
+}
+.flaticon-telephone:before {
+    content: "\f10b";
+}
+.flaticon-group:before {
+    content: "\f10c";
+}
+.flaticon-menu:before {
+    content: "\f10d";
+}
+.flaticon-left-arrow:before {
+    content: "\f10e";
+}
+.flaticon-clock:before {
+    content: "\f10f";
+}
+.flaticon-scroll-bar:before {
+    content: "\f110";
+}

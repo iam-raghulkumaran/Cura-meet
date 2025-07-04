@@ -1,0 +1,45 @@
+{"WaitingUserStatus":"Melody was Waiting for Meeting","conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"12-01-2024 06:15:46","userid":"1705040145451","username":"Melody"}
+{"WaitingUserStatus":"Melody was Waiting for Meeting","conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"12-01-2024 06:15:46","userid":"1705040145451","username":"Melody"}
+{"level":"info","timestamp":"12-01-2024 06:15:48"}
+{"level":"info","timestamp":"12-01-2024 06:15:48"}
+{"conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","displayname":"Melody","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 06:15:52"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 06:15:53"}
+{"audiorecording":false,"conferencename":"6006e1f7-aa63-47f4-84bb-cdc7c3a72283","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Joined the conference","peerid":"ssSlmb0S7rBftTtzAACN","timestamp":"12-01-2024 06:19:05","userid":"174064","videorecording":false}
+{"WaitingUserStatus":"Dr.B Abbott,Dr Myles was Waiting for Meeting","conferencename":"6006e1f7-aa63-47f4-84bb-cdc7c3a72283","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"12-01-2024 06:19:05","userid":"174064","username":"B Abbott,Dr Myles"}
+{"level":"info","timestamp":"12-01-2024 06:19:05"}
+{"conferencename":"6006e1f7-aa63-47f4-84bb-cdc7c3a72283","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 06:20:23"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 06:20:24"}
+{"audiorecording":false,"conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Joined the conference","peerid":"lAwbg4S9udmvAerpAACT","timestamp":"12-01-2024 06:20:32","userid":"174064","videorecording":false}
+{"WaitingUserStatus":"Dr.B Abbott,Dr Myles was Waiting for Meeting","conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"12-01-2024 06:20:32","userid":"174064","username":"B Abbott,Dr Myles"}
+{"level":"info","timestamp":"12-01-2024 06:20:33"}
+{"conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 06:22:21"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 06:22:22"}
+{"audiorecording":false,"conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Joined the conference","peerid":"KxS_AvKPyJgsvoXvAACZ","timestamp":"12-01-2024 06:22:41","userid":"174064","videorecording":false}
+{"WaitingUserStatus":"Dr.B Abbott,Dr Myles was Waiting for Meeting","conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"12-01-2024 06:22:41","userid":"174064","username":"B Abbott,Dr Myles"}
+{"level":"info","timestamp":"12-01-2024 06:22:42"}
+{"audiorecording":false,"conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","displayname":"Melody","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"8Oy6Mt8K4aK8mkSAAACd","timestamp":"12-01-2024 06:22:48","userid":"1705040560279","videorecording":false}
+{"AcceptStatus":"Melody accepeted","conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","level":"info","message":"Data to LiveBoxNotify API","timestamp":"12-01-2024 06:22:48","username":"Melody"}
+{"AcceptStatus":"Melody accepeted","conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"12-01-2024 06:22:48","username":"Melody"}
+{"audiorecording":false,"conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","displayname":"Melody","isadmin":false,"level":"info","message":"Joined the conference","peerid":"8Oy6Mt8K4aK8mkSAAACd","timestamp":"12-01-2024 06:22:48","userid":"1705040560279","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 06:22:49"}
+{"level":"info","timestamp":"12-01-2024 06:22:49"}
+{"conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 06:22:54"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 06:22:55"}
+{"conferencename":"b58d9b88-3b53-4554-a404-b25b26d5ad17","displayname":"Melody","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 06:23:00"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 06:23:00"}
+{"audiorecording":false,"conferencename":"d29d0699-3e76-4ec2-9f91-de4d75e53a48","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Joined the conference","peerid":"qLA0639FvotAuxDsAACj","timestamp":"12-01-2024 07:03:57","userid":"174064","videorecording":false}
+{"WaitingUserStatus":"Dr.B Abbott,Dr Myles was Waiting for Meeting","conferencename":"d29d0699-3e76-4ec2-9f91-de4d75e53a48","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"12-01-2024 07:03:57","userid":"174064","username":"B Abbott,Dr Myles"}
+{"level":"info","timestamp":"12-01-2024 07:03:58"}
+{"conferencename":"d29d0699-3e76-4ec2-9f91-de4d75e53a48","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 07:05:25"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 07:05:26"}
+{"conferencename":"d29d0699-3e76-4ec2-9f91-de4d75e53a48","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 07:05:28"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 07:05:28"}
+{"audiorecording":false,"conferencename":"1ddd32f8-0cd9-43b5-a78e-e29ebccd7986","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Joined the conference","peerid":"uHTHs0gIlg4S_ZFcAACp","timestamp":"12-01-2024 07:06:01","userid":"174064","videorecording":false}
+{"WaitingUserStatus":"Dr.B Abbott,Dr Myles was Waiting for Meeting","conferencename":"1ddd32f8-0cd9-43b5-a78e-e29ebccd7986","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"12-01-2024 07:06:01","userid":"174064","username":"B Abbott,Dr Myles"}
+{"level":"info","timestamp":"12-01-2024 07:06:01"}
+{"conferencename":"1ddd32f8-0cd9-43b5-a78e-e29ebccd7986","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 07:06:17"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 07:06:18"}
+{"conferencename":"1ddd32f8-0cd9-43b5-a78e-e29ebccd7986","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 07:06:18"}
+{"conferencename":"1ddd32f8-0cd9-43b5-a78e-e29ebccd7986","displayname":"B Abbott,Dr Myles","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"12-01-2024 07:06:18"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 07:06:19"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"12-01-2024 07:06:19"}

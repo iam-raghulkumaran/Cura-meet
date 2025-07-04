@@ -1,0 +1,5 @@
+{"audiorecording":false,"conferencename":"a1ce9ac6-fdcd-4ba2-b625-646cfad350ff","displayname":"Philipps,Mary","isadmin":true,"level":"info","message":"Joined the conference","peerid":"U80G8NqJ5ybmjdn1AA8F","timestamp":"06-05-2024 10:22:54","userid":"261","videorecording":false}
+{"WaitingUserStatus":"Dr.Philipps,Mary was Waiting for Meeting","conferencename":"a1ce9ac6-fdcd-4ba2-b625-646cfad350ff","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-05-2024 10:22:54","userid":"261","username":"Philipps,Mary"}
+{"conferencename":"a1ce9ac6-fdcd-4ba2-b625-646cfad350ff","displayname":"Philipps,Mary","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-05-2024 10:22:59"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-05-2024 10:23:01"}
+{"level":"info","timestamp":"06-05-2024 10:23:10"}

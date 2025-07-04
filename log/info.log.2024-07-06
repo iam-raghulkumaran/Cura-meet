@@ -1,0 +1,90 @@
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"7e869807-41d4-41b3-8e5d-8ab64072e268","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 04:58:51","userid":"1720241928107","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"7e869807-41d4-41b3-8e5d-8ab64072e268","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 04:58:51","userid":"1720241928107","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 04:58:59"}
+{"level":"info","timestamp":"06-07-2024 04:58:59"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"test","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 05:00:11","userid":"1720242007041","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"test","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 05:00:11","userid":"1720242007041","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 05:00:11"}
+{"level":"info","timestamp":"06-07-2024 05:00:11"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"test","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 06:15:39","userid":"1720246531457","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"test","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 06:15:39","userid":"1720246531457","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 06:15:43"}
+{"level":"info","timestamp":"06-07-2024 06:15:43"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"a2549020-0dda-4cb5-b274-5b426db856e7","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 06:57:55","userid":"1720249072896","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"a2549020-0dda-4cb5-b274-5b426db856e7","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 06:57:55","userid":"1720249072896","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 06:57:58"}
+{"level":"info","timestamp":"06-07-2024 06:57:58"}
+{"conferencename":"a2549020-0dda-4cb5-b274-5b426db856e7","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 06:58:06"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 06:58:07"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"a2549020-0dda-4cb5-b274-5b426db856e7","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 06:58:19","userid":"1720249097193","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"a2549020-0dda-4cb5-b274-5b426db856e7","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 06:58:19","userid":"1720249097193","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 06:58:20"}
+{"level":"info","timestamp":"06-07-2024 06:58:20"}
+{"conferencename":"a2549020-0dda-4cb5-b274-5b426db856e7","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 06:58:26"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 06:58:27"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 06:59:55","userid":"1720249192965","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 06:59:55","userid":"1720249192965","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 06:59:56"}
+{"level":"info","timestamp":"06-07-2024 06:59:56"}
+{"conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 07:00:51"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 07:00:52"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"a2549020-0dda-4cb5-b274-5b426db856e7","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 07:24:18","userid":"1720250655693","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"a2549020-0dda-4cb5-b274-5b426db856e7","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 07:24:18","userid":"1720250655693","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 07:24:22"}
+{"level":"info","timestamp":"06-07-2024 07:24:22"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 07:25:35","userid":"1720250732495","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 07:25:35","userid":"1720250732495","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 07:25:36"}
+{"level":"info","timestamp":"06-07-2024 07:25:36"}
+{"conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 07:25:41"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 07:25:42"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 07:56:06","userid":"1720252559254","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 07:56:06","userid":"1720252559254","username":"Reg"}
+{"conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 07:56:11"}
+{"level":"info","timestamp":"06-07-2024 07:56:11"}
+{"level":"info","timestamp":"06-07-2024 07:56:11"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 07:56:12"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 07:56:42","userid":"1720252594977","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 07:56:42","userid":"1720252594977","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 07:56:43"}
+{"level":"info","timestamp":"06-07-2024 07:56:43"}
+{"conferencename":"fbe14fc0-6725-4166-90f7-536d1a31c162","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 07:56:47"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 07:56:48"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"af8222d3-970b-483e-b9cc-2030d5761e84","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 09:56:54","userid":"1720259808498","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"af8222d3-970b-483e-b9cc-2030d5761e84","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 09:56:54","userid":"1720259808498","username":"Reg"}
+{"conferencename":"af8222d3-970b-483e-b9cc-2030d5761e84","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 09:56:55"}
+{"level":"info","timestamp":"06-07-2024 09:56:58"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 09:56:58"}
+{"level":"info","timestamp":"06-07-2024 09:56:58"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"af8222d3-970b-483e-b9cc-2030d5761e84","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 10:09:59","userid":"1720260592286","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"af8222d3-970b-483e-b9cc-2030d5761e84","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 10:09:59","userid":"1720260592286","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 10:10:01"}
+{"level":"info","timestamp":"06-07-2024 10:10:01"}
+{"conferencename":"af8222d3-970b-483e-b9cc-2030d5761e84","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 10:10:05"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 10:10:05"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"a250f0d6-d1fb-4556-be12-c8dbab76dce6","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 10:36:08","userid":"1720262161410","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"a250f0d6-d1fb-4556-be12-c8dbab76dce6","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 10:36:08","userid":"1720262161410","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 10:36:10"}
+{"level":"info","timestamp":"06-07-2024 10:36:10"}
+{"conferencename":"a250f0d6-d1fb-4556-be12-c8dbab76dce6","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 10:36:17"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 10:36:18"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"095c6901-8407-4a93-9d86-ad217ba5eb06","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 11:16:37","userid":"1720264594965","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"095c6901-8407-4a93-9d86-ad217ba5eb06","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 11:16:37","userid":"1720264594965","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 11:16:40"}
+{"level":"info","timestamp":"06-07-2024 11:16:40"}
+{"conferencename":"095c6901-8407-4a93-9d86-ad217ba5eb06","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 11:17:32"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 11:17:33"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"b57c7908-01ce-491b-8470-9888871dc7fd","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 12:51:00","userid":"1720270250670","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"b57c7908-01ce-491b-8470-9888871dc7fd","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 12:51:00","userid":"1720270250670","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 12:51:02"}
+{"level":"info","timestamp":"06-07-2024 12:51:02"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"b57c7908-01ce-491b-8470-9888871dc7fd","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 12:51:52","userid":"1720270250670","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"b57c7908-01ce-491b-8470-9888871dc7fd","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 12:51:52","userid":"1720270250670","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 12:51:52"}
+{"level":"info","timestamp":"06-07-2024 12:51:52"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"b57c7908-01ce-491b-8470-9888871dc7fd","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"06-07-2024 12:53:53","userid":"1720270426116","username":"Reg"}
+{"WaitingUserStatus":"Reg was Waiting for Meeting","conferencename":"b57c7908-01ce-491b-8470-9888871dc7fd","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"06-07-2024 12:53:53","userid":"1720270426116","username":"Reg"}
+{"level":"info","timestamp":"06-07-2024 12:53:54"}
+{"level":"info","timestamp":"06-07-2024 12:53:54"}
+{"conferencename":"b57c7908-01ce-491b-8470-9888871dc7fd","displayname":"Reg","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"06-07-2024 12:54:05"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"06-07-2024 12:54:06"}

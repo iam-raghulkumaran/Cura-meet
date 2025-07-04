@@ -1,0 +1,33 @@
+{"audiorecording":false,"conferencename":"8edb5c1b-e563-4c68-961c-12599831b242","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"SRwTQ0_X9iD9KLaKAAFJ","timestamp":"15-04-2024 04:49:07","userid":"262","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel,Reginald was Waiting for Meeting","conferencename":"8edb5c1b-e563-4c68-961c-12599831b242","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-04-2024 04:49:07","userid":"262","username":"Samuel,Reginald"}
+{"level":"info","timestamp":"15-04-2024 04:49:10"}
+{"audiorecording":false,"conferencename":"8edb5c1b-e563-4c68-961c-12599831b242","displayname":"Hakim","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"JEwcSUpV4n4wsXtwAAFP","timestamp":"15-04-2024 04:49:22","userid":"1713156559044","videorecording":false}
+{"AcceptStatus":"Hakim accepeted","conferencename":"8edb5c1b-e563-4c68-961c-12599831b242","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-04-2024 04:49:22","username":"Hakim"}
+{"AcceptStatus":"Hakim accepeted","conferencename":"8edb5c1b-e563-4c68-961c-12599831b242","level":"info","message":"Data to LiveBoxNotify API","timestamp":"15-04-2024 04:49:22","username":"Hakim"}
+{"audiorecording":false,"conferencename":"8edb5c1b-e563-4c68-961c-12599831b242","displayname":"Hakim","isadmin":false,"level":"info","message":"Joined the conference","peerid":"JEwcSUpV4n4wsXtwAAFP","timestamp":"15-04-2024 04:49:22","userid":"1713156559044","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-04-2024 04:49:23"}
+{"level":"info","timestamp":"15-04-2024 04:49:23"}
+{"conferencename":"8edb5c1b-e563-4c68-961c-12599831b242","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-04-2024 04:53:29"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-04-2024 04:53:29"}
+{"conferencename":"8edb5c1b-e563-4c68-961c-12599831b242","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-04-2024 04:53:34"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-04-2024 04:53:35"}
+{"audiorecording":false,"conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","displayname":"Jones,Jon","isadmin":true,"level":"info","message":"Joined the conference","peerid":"vQWGoSh0QpQe0oWmAAKC","timestamp":"15-04-2024 12:40:12","userid":"709","videorecording":false}
+{"WaitingUserStatus":"Dr.Jones,Jon was Waiting for Meeting","conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-04-2024 12:40:12","userid":"709","username":"Jones,Jon"}
+{"level":"info","timestamp":"15-04-2024 12:40:13"}
+{"conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","displayname":"Ahmad","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-04-2024 12:40:37"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-04-2024 12:40:38"}
+{"audiorecording":false,"conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","displayname":"Ahmad","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"PfueMNBT-OITU1ttAAKM","timestamp":"15-04-2024 12:40:41","userid":"1713184839620","videorecording":false}
+{"AcceptStatus":"Ahmad accepeted","conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","level":"info","message":"Data to LiveBoxNotify API","timestamp":"15-04-2024 12:40:41","username":"Ahmad"}
+{"AcceptStatus":"Ahmad accepeted","conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-04-2024 12:40:41","username":"Ahmad"}
+{"audiorecording":false,"conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","displayname":"Ahmad","isadmin":false,"level":"info","message":"Joined the conference","peerid":"PfueMNBT-OITU1ttAAKM","timestamp":"15-04-2024 12:40:41","userid":"1713184839620","videorecording":false}
+{"level":"info","timestamp":"15-04-2024 12:40:42"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-04-2024 12:40:42"}
+{"conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","displayname":"Jones,Jon","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-04-2024 12:42:07"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-04-2024 12:42:08"}
+{"conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","displayname":"Jones,Jon","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-04-2024 12:42:09"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-04-2024 12:42:09"}
+{"conferencename":"ebb21c2f-2f19-4443-8ddd-2f357d8ac903","displayname":"Ahmad","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-04-2024 12:42:11"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-04-2024 12:42:12"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"demoadmin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"l-8YhEOyLlp9OgT6AAKa","timestamp":"15-04-2024 13:02:44","userid":"621543232","videorecording":false}
+{"WaitingUserStatus":"Dr.demoadmin was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-04-2024 13:02:44","userid":"621543232","username":"demoadmin"}
+{"level":"info","timestamp":"15-04-2024 13:02:45"}

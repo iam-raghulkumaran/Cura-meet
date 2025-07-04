@@ -1,0 +1,133 @@
+$flaticon_hive_video_conference-font: "flaticon_hive_video_conference";
+
+@font-face {
+    font-family: $flaticon_hive_video_conference-font;
+    src: url("./flaticon_hive_video_conference.woff2?3f28cf4e70da9d5c58fd76789b0db0ae") format("woff2"),
+url("./flaticon_hive_video_conference.woff?3f28cf4e70da9d5c58fd76789b0db0ae") format("woff"),
+url("./flaticon_hive_video_conference.eot?3f28cf4e70da9d5c58fd76789b0db0ae#iefix") format("embedded-opentype"),
+url("./flaticon_hive_video_conference.ttf?3f28cf4e70da9d5c58fd76789b0db0ae") format("truetype"),
+url("./flaticon_hive_video_conference.svg?3f28cf4e70da9d5c58fd76789b0db0ae#flaticon_hive_video_conference") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_hive_video_conference !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_hive_video_conference-map: (
+    "mute-button": "\f101",
+    "microphone": "\f102",
+    "settings": "\f103",
+    "message": "\f104",
+    "video-camera": "\f105",
+    "friends": "\f106",
+    "missed-call": "\f107",
+    "multiple-mute": "\f108",
+    "no-video": "\f109",
+    "record": "\f10a",
+    "telephone": "\f10b",
+    "group": "\f10c",
+    "menu": "\f10d",
+    "left-arrow": "\f10e",
+    "clock": "\f10f",
+    "scroll-bar": "\f110",
+    "minimize-video": "\f111",
+    "refresh": "\f112",
+    "minimize": "\f113",
+    "full-screen": "\f114",
+    "new-tab": "\f115",
+    "capture": "\f116",
+    "cast": "\f117",
+    "switch": "\f118",
+    "switch-1": "\f119",
+    "closed-captioning-slash": "\f11a",
+    "subtitles": "\f11b",
+);
+
+.flaticon-mute-button:before {
+    content: map-get($flaticon_hive_video_conference-map, "mute-button");
+}
+.flaticon-microphone:before {
+    content: map-get($flaticon_hive_video_conference-map, "microphone");
+}
+.flaticon-settings:before {
+    content: map-get($flaticon_hive_video_conference-map, "settings");
+}
+.flaticon-message:before {
+    content: map-get($flaticon_hive_video_conference-map, "message");
+}
+.flaticon-video-camera:before {
+    content: map-get($flaticon_hive_video_conference-map, "video-camera");
+}
+.flaticon-friends:before {
+    content: map-get($flaticon_hive_video_conference-map, "friends");
+}
+.flaticon-missed-call:before {
+    content: map-get($flaticon_hive_video_conference-map, "missed-call");
+}
+.flaticon-multiple-mute:before {
+    content: map-get($flaticon_hive_video_conference-map, "multiple-mute");
+}
+.flaticon-no-video:before {
+    content: map-get($flaticon_hive_video_conference-map, "no-video");
+}
+.flaticon-record:before {
+    content: map-get($flaticon_hive_video_conference-map, "record");
+}
+.flaticon-telephone:before {
+    content: map-get($flaticon_hive_video_conference-map, "telephone");
+}
+.flaticon-group:before {
+    content: map-get($flaticon_hive_video_conference-map, "group");
+}
+.flaticon-menu:before {
+    content: map-get($flaticon_hive_video_conference-map, "menu");
+}
+.flaticon-left-arrow:before {
+    content: map-get($flaticon_hive_video_conference-map, "left-arrow");
+}
+.flaticon-clock:before {
+    content: map-get($flaticon_hive_video_conference-map, "clock");
+}
+.flaticon-scroll-bar:before {
+    content: map-get($flaticon_hive_video_conference-map, "scroll-bar");
+}
+.flaticon-minimize-video:before {
+    content: map-get($flaticon_hive_video_conference-map, "minimize-video");
+}
+.flaticon-refresh:before {
+    content: map-get($flaticon_hive_video_conference-map, "refresh");
+}
+.flaticon-minimize:before {
+    content: map-get($flaticon_hive_video_conference-map, "minimize");
+}
+.flaticon-full-screen:before {
+    content: map-get($flaticon_hive_video_conference-map, "full-screen");
+}
+.flaticon-new-tab:before {
+    content: map-get($flaticon_hive_video_conference-map, "new-tab");
+}
+.flaticon-capture:before {
+    content: map-get($flaticon_hive_video_conference-map, "capture");
+}
+.flaticon-cast:before {
+    content: map-get($flaticon_hive_video_conference-map, "cast");
+}
+.flaticon-switch:before {
+    content: map-get($flaticon_hive_video_conference-map, "switch");
+}
+.flaticon-switch-1:before {
+    content: map-get($flaticon_hive_video_conference-map, "switch-1");
+}
+.flaticon-closed-captioning-slash:before {
+    content: map-get($flaticon_hive_video_conference-map, "closed-captioning-slash");
+}
+.flaticon-subtitles:before {
+    content: map-get($flaticon_hive_video_conference-map, "subtitles");
+}

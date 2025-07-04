@@ -1,0 +1,14 @@
+{"WaitingUserStatus":"test two,test was Waiting for Meeting","conferencename":"bee94247-8925-4ad3-b87a-fdc8b5a2287c","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-03-2023 13:09:44","userid":"154781","username":"test two,test"}
+{"level":"info","timestamp":"15-03-2023 13:09:45"}
+{"conferencename":"bee94247-8925-4ad3-b87a-fdc8b5a2287c","displayname":"Test two,test","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-03-2023 13:10:07"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-03-2023 13:10:08"}
+{"WaitingUserStatus":"guru was Waiting for Meeting","conferencename":"0b05801e-b2e7-4876-b85c-c4d78a05ef57","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-03-2023 15:12:17","userid":"154781","username":"guru"}
+{"level":"info","timestamp":"15-03-2023 15:12:18"}
+{"WaitingUserStatus":"guru was Waiting for Meeting","conferencename":"0b05801e-b2e7-4876-b85c-c4d78a05ef57","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-03-2023 15:13:54","userid":"154781","username":"guru"}
+{"level":"info","timestamp":"15-03-2023 15:13:54"}
+{"WaitingUserStatus":"test two,test was Waiting for Meeting","conferencename":"0b05801e-b2e7-4876-b85c-c4d78a05ef57","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-03-2023 15:22:28","userid":"154781","username":"test two,test"}
+{"level":"info","timestamp":"15-03-2023 15:22:29"}
+{"conferencename":"0b05801e-b2e7-4876-b85c-c4d78a05ef57","displayname":"Test two,test","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"15-03-2023 15:22:54"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"15-03-2023 15:22:55"}
+{"WaitingUserStatus":"test two,test was Waiting for Meeting","conferencename":"0b05801e-b2e7-4876-b85c-c4d78a05ef57","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"15-03-2023 15:23:41","userid":"154781","username":"test two,test"}
+{"level":"info","timestamp":"15-03-2023 15:23:41"}

@@ -1,0 +1,667 @@
+{"audiorecording":false,"conferencename":"3714e29e-62ed-4418-841a-8265c6387ba8","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"BuYSblu6FM9hoon1AAQn","timestamp":"29-01-2024 04:20:39","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"3714e29e-62ed-4418-841a-8265c6387ba8","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 04:20:39","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 04:20:42"}
+{"audiorecording":false,"conferencename":"63aee300-f072-4a92-9c41-3c878da7f705","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"xfpAuGMFHFlNVBS1AAQt","timestamp":"29-01-2024 04:20:49","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"63aee300-f072-4a92-9c41-3c878da7f705","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 04:20:49","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 04:20:51"}
+{"audiorecording":false,"conferencename":"51dc460c-3d3a-41c2-b96d-582232541855","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"rnfYjivy2KfSPumkAAQy","timestamp":"29-01-2024 05:00:30","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"51dc460c-3d3a-41c2-b96d-582232541855","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:00:30","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 05:01:20"}
+{"conferencename":"51dc460c-3d3a-41c2-b96d-582232541855","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 05:02:15"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 05:02:16"}
+{"audiorecording":false,"conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"gqJl81FdEt6olHPHAAQ4","timestamp":"29-01-2024 05:04:27","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:04:27","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 05:05:15"}
+{"audiorecording":false,"conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","displayname":"Reginald","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"d9PS-5xy8qJRmJAZAAQ_","timestamp":"29-01-2024 05:05:16","userid":"1706504681028","videorecording":false}
+{"AcceptStatus":"Reginald accepeted","conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 05:05:16","username":"Reginald"}
+{"AcceptStatus":"Reginald accepeted","conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:05:16","username":"Reginald"}
+{"audiorecording":false,"conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","displayname":"Reginald","isadmin":false,"level":"info","message":"Joined the conference","peerid":"d9PS-5xy8qJRmJAZAAQ_","timestamp":"29-01-2024 05:05:16","userid":"1706504681028","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 05:05:17"}
+{"level":"info","timestamp":"29-01-2024 05:05:17"}
+{"conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 05:05:29"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 05:05:30"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:05:46","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 05:05:46","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 05:05:47"}
+{"level":"info","timestamp":"29-01-2024 05:05:47"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"pBWv_r7w3CcQf3gGAARH","timestamp":"29-01-2024 05:05:48","userid":"6222655","videorecording":false}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"TB1dh6R90XbUsA-6AARD","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 05:05:49","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:05:49","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 05:05:49","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"TB1dh6R90XbUsA-6AARD","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 05:05:50","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 05:05:50"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 05:05:50"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"rl04vy36qAWwzUQ1AARL","timestamp":"29-01-2024 05:06:33","userid":"6222655","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , Nephrologist was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:06:33","userid":"6222655","username":"CCC , Nephrologist"}
+{"level":"info","timestamp":"29-01-2024 05:06:34"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 05:06:40","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:06:40","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 05:06:41"}
+{"level":"info","timestamp":"29-01-2024 05:06:41"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"qwDz--tlAGihIiA9AARX","timestamp":"29-01-2024 05:06:50","userid":"6222655","videorecording":false}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"ihIeqUSq-nN-wVBXAART","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 05:06:51","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:06:51","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 05:06:51","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"ihIeqUSq-nN-wVBXAART","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 05:06:51","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 05:06:51"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 05:06:51"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 05:07:04","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:07:04","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"OTk7CBJJjshIkC0NAARe","timestamp":"29-01-2024 05:07:04","userid":"6222655","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 05:07:05"}
+{"level":"info","timestamp":"29-01-2024 05:07:05"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"wxnfSL2j8-13CYt1AARc","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 05:07:10","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 05:07:10","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:07:10","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"wxnfSL2j8-13CYt1AARc","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 05:07:10","userid":"621543232","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 05:07:11"}
+{"level":"info","timestamp":"29-01-2024 05:07:11"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"K_DWyETbmGZM_ZmkAARj","timestamp":"29-01-2024 05:07:30","userid":"6222655","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , Nephrologist was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:07:30","userid":"6222655","username":"CCC , Nephrologist"}
+{"level":"info","timestamp":"29-01-2024 05:07:31"}
+{"conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","displayname":"Reginald","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 05:07:49"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 05:07:49"}
+{"audiorecording":false,"conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"5WZpzYVd3YCdmVpWAARp","timestamp":"29-01-2024 05:11:50","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:11:50","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 05:12:39"}
+{"audiorecording":false,"conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"LEITkTTTQZb5y2jXAARv","timestamp":"29-01-2024 05:14:11","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"ad5c9c06-ad36-4256-a856-da00a2683a16","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 05:14:11","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 05:15:00"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:00:57","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:00:57","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 06:00:59"}
+{"level":"info","timestamp":"29-01-2024 06:00:59"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:01:14","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:01:14","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 06:01:15"}
+{"level":"info","timestamp":"29-01-2024 06:01:15"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Intensivist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"FHkTXYIWJ7xwF6oPAAR6","timestamp":"29-01-2024 06:01:20","userid":"56523265","videorecording":false}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"uCoqJpt1HQ3sH5abAAR3","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:01:22","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:01:22","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:01:22","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"uCoqJpt1HQ3sH5abAAR3","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:01:22","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:01:23"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:01:23"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Intensivist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"Ch7tfPwYdwYZj6qwAAR_","timestamp":"29-01-2024 06:01:53","userid":"56523265","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , Intensivist was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:01:53","userid":"56523265","username":"CCC , Intensivist"}
+{"level":"info","timestamp":"29-01-2024 06:01:54"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Intensivist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"tZWnT4LtUDbs2c7EAASD","timestamp":"29-01-2024 06:02:06","userid":"56523265","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , Intensivist was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:02:06","userid":"56523265","username":"CCC , Intensivist"}
+{"level":"info","timestamp":"29-01-2024 06:02:06"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"zLcjG7fsfiTDzfJnAASH","timestamp":"29-01-2024 06:02:09","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:02:09","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:02:09","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"zLcjG7fsfiTDzfJnAASH","timestamp":"29-01-2024 06:02:09","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:02:10"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:02:10"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC Intensivist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"NxenV81-8L17WyN9AASL","timestamp":"29-01-2024 06:02:56","userid":"56523265","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC Intensivist was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:02:56","userid":"56523265","username":"CCC Intensivist"}
+{"level":"info","timestamp":"29-01-2024 06:02:56"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"gXZvZSX7LYOqxWAyAASP","timestamp":"29-01-2024 06:03:07","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:03:07","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:03:07","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"gXZvZSX7LYOqxWAyAASP","timestamp":"29-01-2024 06:03:08","userid":"621543232","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:03:08"}
+{"level":"info","timestamp":"29-01-2024 06:03:08"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC Intensivist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"wr8V2PM3vbtlzF34AASS","timestamp":"29-01-2024 06:04:37","userid":"56523265","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC Intensivist was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:04:37","userid":"56523265","username":"CCC Intensivist"}
+{"level":"info","timestamp":"29-01-2024 06:04:38"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"14tR3edKhdUYN74iAASW","timestamp":"29-01-2024 06:05:32","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:05:32","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:05:32","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"14tR3edKhdUYN74iAASW","timestamp":"29-01-2024 06:05:32","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:05:32"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:05:32"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC Intensivist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"INf4Az0SbwkoPrGOAASb","timestamp":"29-01-2024 06:05:37","userid":"56523265","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC Intensivist was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:05:37","userid":"56523265","username":"CCC Intensivist"}
+{"level":"info","timestamp":"29-01-2024 06:05:38"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"egwjNgDMzTZlSmwcAASf","timestamp":"29-01-2024 06:05:42","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:05:42","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:05:42","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"egwjNgDMzTZlSmwcAASf","timestamp":"29-01-2024 06:05:42","userid":"621543232","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:05:43"}
+{"level":"info","timestamp":"29-01-2024 06:05:43"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"CCC Intensivist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"mQJ9AcriHwWr3rUWAASj","timestamp":"29-01-2024 06:06:57","userid":"56523265","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC Intensivist was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:06:57","userid":"56523265","username":"CCC Intensivist"}
+{"level":"info","timestamp":"29-01-2024 06:06:58"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"fS_fBcPsKEnL1_wJAASn","timestamp":"29-01-2024 06:07:00","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:07:00","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:07:00","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"fS_fBcPsKEnL1_wJAASn","timestamp":"29-01-2024 06:07:00","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:07:01"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:07:01"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:07:32","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:07:32","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 06:07:32"}
+{"level":"info","timestamp":"29-01-2024 06:07:33"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"j-5pGRfJSJaU6_CPAASu","timestamp":"29-01-2024 06:07:34","userid":"6222655","videorecording":false}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"Y0uDKUXFppfzz3mHAASr","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:07:35","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:07:35","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:07:35","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"Y0uDKUXFppfzz3mHAASr","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:07:35","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:07:36"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:07:36"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:08:18","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:08:18","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"S9YdMb6f_JkG6ISKAAS3","timestamp":"29-01-2024 06:08:18","userid":"6222655","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:08:19"}
+{"level":"info","timestamp":"29-01-2024 06:08:19"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"cJZ9VQLSjHcXhptSAASz","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:08:20","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:08:20","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:08:20","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"cJZ9VQLSjHcXhptSAASz","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:08:20","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:08:21"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:08:21"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:10:03","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:10:03","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 06:10:04"}
+{"level":"info","timestamp":"29-01-2024 06:10:04"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:16:42","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:16:42","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 06:16:43"}
+{"level":"info","timestamp":"29-01-2024 06:16:43"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:30:13","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:30:13","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 06:30:14"}
+{"level":"info","timestamp":"29-01-2024 06:30:14"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"QS1pjdUhXyE_ID-8AATK","timestamp":"29-01-2024 06:30:17","userid":"6222655","videorecording":false}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"4YDOO6TgjNkA7XMbAATB","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:30:19","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:30:19","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:30:19","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"4YDOO6TgjNkA7XMbAATB","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:30:19","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:30:19"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:30:19"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:38:17","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:38:17","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 06:38:18"}
+{"level":"info","timestamp":"29-01-2024 06:38:18"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:38:26","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:38:26","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 06:38:27"}
+{"level":"info","timestamp":"29-01-2024 06:38:27"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"cf4FjJLg6eKpHeRRAATV","timestamp":"29-01-2024 06:38:33","userid":"6222655","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , Nephrologist was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:38:33","userid":"6222655","username":"CCC , Nephrologist"}
+{"level":"info","timestamp":"29-01-2024 06:38:34"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"jaaobn5HnmWS2SI9AATa","timestamp":"29-01-2024 06:38:37","userid":"6222655","videorecording":false}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"pCt3OwQaspdSFssYAATS","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:38:39","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:38:39","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:38:39","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"pCt3OwQaspdSFssYAATS","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:38:39","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:38:39"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:38:39"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:38:57","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:38:57","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"5SvCJu-8pMhLoOCqAATi","timestamp":"29-01-2024 06:38:57","userid":"6222655","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:38:58"}
+{"level":"info","timestamp":"29-01-2024 06:38:58"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"5HPftzWqOd6iCV1PAATe","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:38:59","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:38:59","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:38:59","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"5HPftzWqOd6iCV1PAATe","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 06:39:00","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:39:00"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:39:00"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"xhN5RpnRbDvF7dBGAATl","timestamp":"29-01-2024 06:49:21","userid":"6222655","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , Nephrologist was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:49:21","userid":"6222655","username":"CCC , Nephrologist"}
+{"level":"info","timestamp":"29-01-2024 06:49:22"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"c4pxvp7HHZvh06dmAATq","timestamp":"29-01-2024 06:49:24","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:49:24","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:49:24","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"c4pxvp7HHZvh06dmAATq","timestamp":"29-01-2024 06:49:24","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 06:49:25"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:49:25"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"CCC , Nephrologist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"2LVZqjxqpgbAGWUyAATu","timestamp":"29-01-2024 06:49:34","userid":"6222655","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , Nephrologist was Waiting for Meeting","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:49:34","userid":"6222655","username":"CCC , Nephrologist"}
+{"level":"info","timestamp":"29-01-2024 06:49:35"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"m_3am6mBZU4jglDuAATy","timestamp":"29-01-2024 06:49:44","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 06:49:44","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"64472d3a-9619-4904-997a-120800bb4838","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 06:49:44","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"64472d3a-9619-4904-997a-120800bb4838","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"m_3am6mBZU4jglDuAATy","timestamp":"29-01-2024 06:49:44","userid":"621543232","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 06:49:44"}
+{"level":"info","timestamp":"29-01-2024 06:49:44"}
+{"audiorecording":false,"conferencename":"c9e4571c-05bb-4b74-8376-e132bf1f3758","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"aVKZBJ1fuFgEd0wgAAT5","timestamp":"29-01-2024 08:03:38","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"c9e4571c-05bb-4b74-8376-e132bf1f3758","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 08:03:38","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 08:03:40"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 08:03:51","userid":"1706515425932","username":"Hakim"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 08:03:51","userid":"1706515425932","username":"Hakim"}
+{"level":"info","timestamp":"29-01-2024 08:03:52"}
+{"level":"info","timestamp":"29-01-2024 08:03:52"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:04:00"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:04:01"}
+{"conferencename":"c9e4571c-05bb-4b74-8376-e132bf1f3758","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:04:10"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:04:11"}
+{"conferencename":"c9e4571c-05bb-4b74-8376-e132bf1f3758","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:04:13"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:04:14"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 08:06:27","userid":"1706515586473","username":"Hakim"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 08:06:27","userid":"1706515586473","username":"Hakim"}
+{"level":"info","timestamp":"29-01-2024 08:06:28"}
+{"level":"info","timestamp":"29-01-2024 08:06:28"}
+{"audiorecording":false,"conferencename":"b042185f-8829-474a-ab19-383f68b86bec","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"ySHcs6uhphOt4SRBAAUI","timestamp":"29-01-2024 08:06:30","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"b042185f-8829-474a-ab19-383f68b86bec","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 08:06:30","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 08:06:31"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:06:55"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:06:56"}
+{"conferencename":"b042185f-8829-474a-ab19-383f68b86bec","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:06:58"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:06:59"}
+{"audiorecording":false,"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Green,Eva","isadmin":true,"level":"info","message":"Joined the conference","peerid":"kJfiazCWZdv-QZklAAUO","timestamp":"29-01-2024 08:32:22","userid":"852","videorecording":false}
+{"WaitingUserStatus":"Dr.Green,Eva was Waiting for Meeting","conferencename":"3922e925-267c-4212-add5-71b4471d65b8","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 08:32:22","userid":"852","username":"Green,Eva"}
+{"level":"info","timestamp":"29-01-2024 08:32:27"}
+{"audiorecording":false,"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Hakim","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"ZvoftDTcsa5wVdR3AAUS","timestamp":"29-01-2024 08:32:32","userid":"1706517140907","videorecording":false}
+{"AcceptStatus":"Hakim accepeted","conferencename":"3922e925-267c-4212-add5-71b4471d65b8","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 08:32:32","username":"Hakim"}
+{"AcceptStatus":"Hakim accepeted","conferencename":"3922e925-267c-4212-add5-71b4471d65b8","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 08:32:32","username":"Hakim"}
+{"audiorecording":false,"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Hakim","isadmin":false,"level":"info","message":"Joined the conference","peerid":"ZvoftDTcsa5wVdR3AAUS","timestamp":"29-01-2024 08:32:32","userid":"1706517140907","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:32:33"}
+{"level":"info","timestamp":"29-01-2024 08:32:33"}
+{"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:33:13"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:33:14"}
+{"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Green,Eva","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:33:18"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:33:18"}
+{"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Green,Eva","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:33:18"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:33:19"}
+{"audiorecording":false,"conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","displayname":"Jones,Jon","isadmin":true,"level":"info","message":"Joined the conference","peerid":"4JMiAg1ZPgOieMTNAAUa","timestamp":"29-01-2024 08:35:35","userid":"709","videorecording":false}
+{"WaitingUserStatus":"Dr.Jones,Jon was Waiting for Meeting","conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 08:35:35","userid":"709","username":"Jones,Jon"}
+{"level":"info","timestamp":"29-01-2024 08:35:36"}
+{"audiorecording":false,"conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","displayname":"Ahmad","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"WUVd4dFH9l_T4vy3AAUe","timestamp":"29-01-2024 08:35:47","userid":"1706517337065","videorecording":false}
+{"AcceptStatus":"Ahmad accepeted","conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 08:35:47","username":"Ahmad"}
+{"AcceptStatus":"Ahmad accepeted","conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 08:35:47","username":"Ahmad"}
+{"audiorecording":false,"conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","displayname":"Ahmad","isadmin":false,"level":"info","message":"Joined the conference","peerid":"WUVd4dFH9l_T4vy3AAUe","timestamp":"29-01-2024 08:35:47","userid":"1706517337065","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 08:35:48"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:35:48"}
+{"conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","displayname":"Ahmad","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:36:10"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:36:10"}
+{"conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","displayname":"Jones,Jon","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 08:36:12"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 08:36:13"}
+{"audiorecording":false,"conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","displayname":"Jones,Jon","isadmin":true,"level":"info","message":"Joined the conference","peerid":"1Dy95fG7XNpQ_MdWAAUk","timestamp":"29-01-2024 09:52:35","userid":"709","videorecording":false}
+{"WaitingUserStatus":"Dr.Jones,Jon was Waiting for Meeting","conferencename":"d04fd2ce-6353-41af-b363-2adb8d58b800","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 09:52:35","userid":"709","username":"Jones,Jon"}
+{"level":"info","timestamp":"29-01-2024 09:52:36"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"3922e925-267c-4212-add5-71b4471d65b8","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 09:57:35","userid":"1706522253938","username":"Hakim"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"3922e925-267c-4212-add5-71b4471d65b8","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 09:57:35","userid":"1706522253938","username":"Hakim"}
+{"level":"info","timestamp":"29-01-2024 09:57:36"}
+{"level":"info","timestamp":"29-01-2024 09:57:36"}
+{"audiorecording":false,"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Green,Eva","isadmin":true,"level":"info","message":"Joined the conference","peerid":"pl8NaIfwR48NvEgpAAUu","timestamp":"29-01-2024 09:57:47","userid":"852","videorecording":false}
+{"audiorecording":false,"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Hakim","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"3we5bNQXfG7w_C6vAAUn","status":"Hakim was Waiting for Meeting","timestamp":"29-01-2024 09:57:49","userid":"1706522253938","videorecording":false}
+{"AcceptStatus":"Hakim accepeted","conferencename":"3922e925-267c-4212-add5-71b4471d65b8","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 09:57:50","username":"Hakim"}
+{"AcceptStatus":"Hakim accepeted","conferencename":"3922e925-267c-4212-add5-71b4471d65b8","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 09:57:50","username":"Hakim"}
+{"audiorecording":false,"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Hakim","isadmin":false,"level":"info","message":"Joined the conference","peerid":"3we5bNQXfG7w_C6vAAUn","status":"Hakim was Waiting for Meeting","timestamp":"29-01-2024 09:57:50","userid":"1706522253938","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 09:57:50"}
+{"level":"info","timestamp":"29-01-2024 09:57:50"}
+{"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 09:59:34"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 09:59:35"}
+{"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Green,Eva","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 10:02:43"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 10:02:44"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"WznC4dPJaUvI6mVDAAUz","timestamp":"29-01-2024 10:39:37","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 10:39:37","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 10:40:27"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"eFInbVjVprYCO4SwAAU4","timestamp":"29-01-2024 10:40:39","userid":"1706524828401","videorecording":false}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 10:40:39","username":"Hakim"}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 10:40:39","username":"Hakim"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Joined the conference","peerid":"eFInbVjVprYCO4SwAAU4","timestamp":"29-01-2024 10:40:39","userid":"1706524828401","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 10:40:40"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 10:40:40"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 10:43:32"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 10:43:33"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 10:50:05"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 10:50:05"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 10:50:06"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 10:50:07"}
+{"audiorecording":false,"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"UdNmDV49j9a0X0v9AAU-","timestamp":"29-01-2024 10:50:16","userid":"852","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"3922e925-267c-4212-add5-71b4471d65b8","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 10:50:16","userid":"852","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 10:50:27"}
+{"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 11:04:25"}
+{"conferencename":"3922e925-267c-4212-add5-71b4471d65b8","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 11:04:26"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:04:26"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:04:27"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"ZIp9-q1LZXh7MyBLAAVE","timestamp":"29-01-2024 11:11:32","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:11:32","userid":"853","username":"Samuel Sr.,Reginald"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"0tbVOXpPKfOZxiI7AAVI","timestamp":"29-01-2024 11:11:57","userid":"1706526699531","videorecording":false}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:11:57","username":"Hakim"}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:11:57","username":"Hakim"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Joined the conference","peerid":"0tbVOXpPKfOZxiI7AAVI","timestamp":"29-01-2024 11:11:57","userid":"1706526699531","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:11:58"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:11:58"}
+{"level":"info","timestamp":"29-01-2024 11:12:20"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:15:08","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:15:08","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 11:15:08"}
+{"level":"info","timestamp":"29-01-2024 11:15:09"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:15:12","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:15:12","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 11:15:13"}
+{"level":"info","timestamp":"29-01-2024 11:15:13"}
+{"audiorecording":false,"conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","displayname":"CCC , respiratory therapist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"JpRkild-TN_XBzFxAAVU","timestamp":"29-01-2024 11:15:15","userid":"2233443","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , respiratory therapist was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:15:15","userid":"2233443","username":"CCC , respiratory therapist"}
+{"level":"info","timestamp":"29-01-2024 11:15:16"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"CCC , respiratory therapist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"CNtYIU8N7DsI_Go1AAVY","timestamp":"29-01-2024 11:15:24","userid":"2233443","videorecording":false}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"0YhiVY2ouD5Tnv0GAAVQ","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 11:15:26","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:15:26","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:15:26","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"0YhiVY2ouD5Tnv0GAAVQ","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 11:15:26","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:15:27"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:15:27"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"CCC , respiratory therapist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"82txRQEY19xTcSMnAAVc","timestamp":"29-01-2024 11:15:38","userid":"2233443","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , respiratory therapist was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:15:38","userid":"2233443","username":"CCC , respiratory therapist"}
+{"level":"info","timestamp":"29-01-2024 11:15:38"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"lZtDcmabnFQhP9vfAAVg","timestamp":"29-01-2024 11:15:51","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:15:51","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:15:51","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"lZtDcmabnFQhP9vfAAVg","timestamp":"29-01-2024 11:15:51","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:15:52"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:15:52"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:16:03","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:16:03","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"CCC , respiratory therapist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"qdyc16qaY4YrC_G1AAVn","timestamp":"29-01-2024 11:16:03","userid":"2233443","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:16:04"}
+{"level":"info","timestamp":"29-01-2024 11:16:04"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"JjJEE2myNMNsgEP4AAVk","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 11:16:05","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:16:05","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:16:05","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"JjJEE2myNMNsgEP4AAVk","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 11:16:06","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:16:06"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:16:06"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 11:16:13"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:16:14"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 11:16:15"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:16:15"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:16:20","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:16:20","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"CCC , respiratory therapist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"8eBBxKIOOfKQF8yDAAVs","timestamp":"29-01-2024 11:16:21","userid":"2233443","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:16:21"}
+{"level":"info","timestamp":"29-01-2024 11:16:21"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"d6k9KpY32_DroZPLAAVw","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 11:16:23","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:16:23","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:16:23","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"d6k9KpY32_DroZPLAAVw","status":"Ramtha Hospital ICU was Waiting for Meeting","timestamp":"29-01-2024 11:16:23","userid":"621543232","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:16:23"}
+{"level":"info","timestamp":"29-01-2024 11:16:23"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"CCC , respiratory therapist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"7Y10iE48o5E_Q3A7AAV4","timestamp":"29-01-2024 11:17:26","userid":"2233443","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , respiratory therapist was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:17:26","userid":"2233443","username":"CCC , respiratory therapist"}
+{"level":"info","timestamp":"29-01-2024 11:17:26"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"eOmsQUylSo6uKpQwAAV0","timestamp":"29-01-2024 11:17:29","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:17:29","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:17:29","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"eOmsQUylSo6uKpQwAAV0","timestamp":"29-01-2024 11:17:29","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:17:29"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:17:29"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"NxVrcAuCWiLIuVzGAAV7","timestamp":"29-01-2024 11:17:39","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:17:39","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:17:39","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"NxVrcAuCWiLIuVzGAAV7","timestamp":"29-01-2024 11:17:39","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:17:40"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:17:40"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"CCC , respiratory therapist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"w1UzAKD5bDdLXm84AAWG","timestamp":"29-01-2024 11:17:47","userid":"2233443","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , respiratory therapist was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:17:47","userid":"2233443","username":"CCC , respiratory therapist"}
+{"level":"info","timestamp":"29-01-2024 11:17:47"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"YHoeqSMU8Ok_G0Z3AAWJ","timestamp":"29-01-2024 11:17:48","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:17:48","userid":"853","username":"Samuel Sr.,Reginald"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"CCC , respiratory therapist","isadmin":true,"level":"info","message":"Joined the conference","peerid":"YyLDtxMODy5eRG8SAAWO","timestamp":"29-01-2024 11:18:03","userid":"2233443","videorecording":false}
+{"WaitingUserStatus":"Dr.CCC , respiratory therapist was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:18:03","userid":"2233443","username":"CCC , respiratory therapist"}
+{"level":"info","timestamp":"29-01-2024 11:18:03"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"ctAj_rrejGzh6gysAAWS","timestamp":"29-01-2024 11:18:05","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:18:05","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:18:05","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"ctAj_rrejGzh6gysAAWS","timestamp":"29-01-2024 11:18:05","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:18:06"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:18:06"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"713f6YFa1E4347jjAAWA","timestamp":"29-01-2024 11:18:14","userid":"1706527064885","videorecording":false}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 11:18:14","username":"Hakim"}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 11:18:14","username":"Hakim"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Joined the conference","peerid":"713f6YFa1E4347jjAAWA","timestamp":"29-01-2024 11:18:14","userid":"1706527064885","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 11:18:15"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 11:18:15"}
+{"level":"info","timestamp":"29-01-2024 11:18:44"}
+{"audiorecording":false,"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"WAbAlmCM0O7TjsTQAAWY","timestamp":"29-01-2024 12:06:19","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:06:19","userid":"853","username":"Samuel Sr.,Reginald"}
+{"audiorecording":false,"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Reginald","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"lm28NjDV6ndp4shJAAWc","timestamp":"29-01-2024 12:06:35","userid":"1706529986764","videorecording":false}
+{"AcceptStatus":"Reginald accepeted","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:06:35","username":"Reginald"}
+{"AcceptStatus":"Reginald accepeted","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:06:35","username":"Reginald"}
+{"audiorecording":false,"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Reginald","isadmin":false,"level":"info","message":"Joined the conference","peerid":"lm28NjDV6ndp4shJAAWc","timestamp":"29-01-2024 12:06:35","userid":"1706529986764","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:06:36"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:06:36"}
+{"level":"info","timestamp":"29-01-2024 12:06:55"}
+{"audiorecording":false,"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"2QpwJO65Lim0s0WWAAWh","timestamp":"29-01-2024 12:08:56","userid":"853","videorecording":false}
+{"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Reginald","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:09:04"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:09:05"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:09:48","userid":"1706530183225","username":"Hakim"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:09:48","userid":"1706530183225","username":"Hakim"}
+{"level":"info","timestamp":"29-01-2024 12:09:49"}
+{"level":"info","timestamp":"29-01-2024 12:09:49"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:10:00"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:10:00"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:10:31","userid":"1706530226212","username":"Hakim"}
+{"WaitingUserStatus":"Hakim was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:10:31","userid":"1706530226212","username":"Hakim"}
+{"level":"info","timestamp":"29-01-2024 12:10:32"}
+{"level":"info","timestamp":"29-01-2024 12:10:32"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"Ec6Ides3lpTwPNzJAAWw","timestamp":"29-01-2024 12:10:34","userid":"853","videorecording":false}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"ZgisSKlh2gjtQpTzAAWq","status":"Hakim was Waiting for Meeting","timestamp":"29-01-2024 12:10:39","userid":"1706530226212","videorecording":false}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:10:39","username":"Hakim"}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:10:39","username":"Hakim"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Joined the conference","peerid":"ZgisSKlh2gjtQpTzAAWq","status":"Hakim was Waiting for Meeting","timestamp":"29-01-2024 12:10:39","userid":"1706530226212","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:10:39"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:10:39"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:12:39"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:12:40"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:13:49"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:13:50"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:13:51"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:13:51"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"FX3Ea_C4a-EmOuR7AAW2","timestamp":"29-01-2024 12:15:02","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:15:02","userid":"853","username":"Samuel Sr.,Reginald"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"27DfeZURnGTmfnPmAAW6","timestamp":"29-01-2024 12:15:35","userid":"1706530531636","videorecording":false}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:15:35","username":"Hakim"}
+{"AcceptStatus":"Hakim accepeted","conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:15:35","username":"Hakim"}
+{"audiorecording":false,"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Joined the conference","peerid":"27DfeZURnGTmfnPmAAW6","timestamp":"29-01-2024 12:15:35","userid":"1706530531636","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:15:35"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:15:35"}
+{"level":"info","timestamp":"29-01-2024 12:15:51"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:20:33"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:20:34"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:20:35"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:20:36"}
+{"conferencename":"1489b43e-cffa-4bc7-aa52-a9b982196ec6","displayname":"Hakim","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:20:45"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:20:46"}
+{"audiorecording":false,"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"X897tDvUWGOCKtwKAAXA","timestamp":"29-01-2024 12:20:51","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:20:51","userid":"853","username":"Samuel Sr.,Reginald"}
+{"audiorecording":false,"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Reginald","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"T2YqUbZN0QpauEBVAAXE","timestamp":"29-01-2024 12:20:59","userid":"1706530851617","videorecording":false}
+{"AcceptStatus":"Reginald accepeted","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:20:59","username":"Reginald"}
+{"AcceptStatus":"Reginald accepeted","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:20:59","username":"Reginald"}
+{"audiorecording":false,"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Reginald","isadmin":false,"level":"info","message":"Joined the conference","peerid":"T2YqUbZN0QpauEBVAAXE","timestamp":"29-01-2024 12:21:00","userid":"1706530851617","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:21:00"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:21:00"}
+{"level":"info","timestamp":"29-01-2024 12:21:40"}
+{"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:22:09"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:22:10"}
+{"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Reginald","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:22:11"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:22:12"}
+{"audiorecording":false,"conferencename":"e856419c-6975-4a10-a212-6d4f28e39674","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"gCmLVYsfsEYpgA_kAAXK","timestamp":"29-01-2024 12:25:05","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"e856419c-6975-4a10-a212-6d4f28e39674","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:25:05","userid":"853","username":"Samuel Sr.,Reginald"}
+{"WaitingUserStatus":"Reginald was Waiting for Meeting","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:25:19","userid":"1706531114131","username":"Reginald"}
+{"WaitingUserStatus":"Reginald was Waiting for Meeting","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:25:19","userid":"1706531114131","username":"Reginald"}
+{"level":"info","timestamp":"29-01-2024 12:25:20"}
+{"level":"info","timestamp":"29-01-2024 12:25:20"}
+{"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Reginald","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:25:25"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:25:26"}
+{"level":"info","timestamp":"29-01-2024 12:25:40"}
+{"WaitingUserStatus":"Reginald was Waiting for Meeting","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:30:06","userid":"1706531400175","username":"Reginald"}
+{"WaitingUserStatus":"Reginald was Waiting for Meeting","conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:30:06","userid":"1706531400175","username":"Reginald"}
+{"level":"info","timestamp":"29-01-2024 12:30:07"}
+{"level":"info","timestamp":"29-01-2024 12:30:07"}
+{"conferencename":"3bf7b98d-6b74-48bd-b69a-8b72f0da6bc5","displayname":"Reginald","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:30:09"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:30:10"}
+{"conferencename":"e856419c-6975-4a10-a212-6d4f28e39674","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:31:01"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:31:02"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"F50HvDrcacqTxcsVAAXW","timestamp":"29-01-2024 12:38:06","userid":"621543232","videorecording":false}
+{"WaitingUserStatus":"Dr.Admin was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:38:06","userid":"621543232","username":"Admin"}
+{"level":"info","timestamp":"29-01-2024 12:38:07"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"ttZ7O51xn-ALEM6aAAXZ","timestamp":"29-01-2024 12:38:07","userid":"621543232","videorecording":false}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"9-MsWZJvoyqOz-LsAAXe","timestamp":"29-01-2024 12:38:41","userid":"621543232","videorecording":false}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:38:41","username":"user"}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:38:41","username":"user"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Joined the conference","peerid":"9-MsWZJvoyqOz-LsAAXe","timestamp":"29-01-2024 12:38:41","userid":"621543232","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:38:41"}
+{"level":"info","timestamp":"29-01-2024 12:38:41"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"ShKcV39UI1mdCjtjAAXi","timestamp":"29-01-2024 12:38:57","userid":"621543232","videorecording":false}
+{"WaitingUserStatus":"Dr.Admin was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:38:57","userid":"621543232","username":"Admin"}
+{"level":"info","timestamp":"29-01-2024 12:38:57"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"ZfyyUosgqKIRmYjQAAXm","timestamp":"29-01-2024 12:39:05","userid":"621543232","videorecording":false}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:39:05","username":"user"}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:39:05","username":"user"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Joined the conference","peerid":"ZfyyUosgqKIRmYjQAAXm","timestamp":"29-01-2024 12:39:05","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:39:06"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:39:06"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"3Tl2hpULCZIBMCO_AAXq","timestamp":"29-01-2024 12:39:44","userid":"621543232","videorecording":false}
+{"WaitingUserStatus":"Dr.Admin was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:39:44","userid":"621543232","username":"Admin"}
+{"WaitingUserStatus":"user was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:39:47","userid":"621543232","username":"user"}
+{"WaitingUserStatus":"user was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:39:47","userid":"621543232","username":"user"}
+{"level":"info","timestamp":"29-01-2024 12:39:48"}
+{"level":"info","timestamp":"29-01-2024 12:39:48"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"g1RmH1DpXNd_m65MAAAH","timestamp":"29-01-2024 12:39:48","userid":"621543232","videorecording":false}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"59ICdhFGMaNzf1-AAAAF","status":"user was Waiting for Meeting","timestamp":"29-01-2024 12:39:51","userid":"621543232","videorecording":false}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:39:51","username":"user"}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:39:51","username":"user"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Joined the conference","peerid":"59ICdhFGMaNzf1-AAAAF","status":"user was Waiting for Meeting","timestamp":"29-01-2024 12:39:51","userid":"621543232","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:39:51"}
+{"level":"info","timestamp":"29-01-2024 12:39:52"}
+{"WaitingUserStatus":"user was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:40:47","userid":"621543232","username":"user"}
+{"WaitingUserStatus":"user was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:40:47","userid":"621543232","username":"user"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"9eNLf0F4dkNvrjSuAAAP","timestamp":"29-01-2024 12:40:47","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:40:47"}
+{"level":"info","timestamp":"29-01-2024 12:40:47"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"UI-EC86l0T1jFZ3uAAAL","status":"user was Waiting for Meeting","timestamp":"29-01-2024 12:40:50","userid":"621543232","videorecording":false}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:40:50","username":"user"}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:40:50","username":"user"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Joined the conference","peerid":"UI-EC86l0T1jFZ3uAAAL","status":"user was Waiting for Meeting","timestamp":"29-01-2024 12:40:51","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:40:51"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:40:51"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"b3gsClMZzgieXx6fAAAX","timestamp":"29-01-2024 12:42:28","userid":"621543232","videorecording":false}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"8wo1sEVAxHhHH4KqAAAT","timestamp":"29-01-2024 12:42:36","userid":"621543232","videorecording":false}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:42:36","username":"user"}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:42:36","username":"user"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Joined the conference","peerid":"8wo1sEVAxHhHH4KqAAAT","timestamp":"29-01-2024 12:42:36","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:42:37"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:42:37"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"9HsQMq_Y-xbbtHNBAAAb","timestamp":"29-01-2024 12:43:19","userid":"621543232","videorecording":false}
+{"WaitingUserStatus":"Dr.Admin was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:43:19","userid":"621543232","username":"Admin"}
+{"level":"info","timestamp":"29-01-2024 12:43:19"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"0C5NLsymk60DivY5AAAf","timestamp":"29-01-2024 12:43:34","userid":"621543232","videorecording":false}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:43:34","username":"user"}
+{"AcceptStatus":"user accepeted","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:43:34","username":"user"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"user","isadmin":false,"level":"info","message":"Joined the conference","peerid":"0C5NLsymk60DivY5AAAf","timestamp":"29-01-2024 12:43:34","userid":"621543232","videorecording":false}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:43:35"}
+{"level":"info","timestamp":"29-01-2024 12:43:35"}
+{"audiorecording":false,"conferencename":"1981205f-5329-4d13-8ed5-cb8ec49809d1","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"aluTdgFJaw5FUPOHAAAl","timestamp":"29-01-2024 12:49:08","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"1981205f-5329-4d13-8ed5-cb8ec49809d1","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:49:08","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 12:49:56"}
+{"audiorecording":false,"conferencename":"1981205f-5329-4d13-8ed5-cb8ec49809d1","displayname":"Patient Maran","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"KH1r-kQKP5x0m6nyAAAp","timestamp":"29-01-2024 12:50:30","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Patient Maran accepeted","conferencename":"1981205f-5329-4d13-8ed5-cb8ec49809d1","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 12:50:30","username":"Patient Maran"}
+{"AcceptStatus":"Patient Maran accepeted","conferencename":"1981205f-5329-4d13-8ed5-cb8ec49809d1","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:50:30","username":"Patient Maran"}
+{"audiorecording":false,"conferencename":"1981205f-5329-4d13-8ed5-cb8ec49809d1","displayname":"Patient Maran","isadmin":false,"level":"info","message":"Joined the conference","peerid":"KH1r-kQKP5x0m6nyAAAp","timestamp":"29-01-2024 12:50:30","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 12:50:30"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:50:30"}
+{"conferencename":"1981205f-5329-4d13-8ed5-cb8ec49809d1","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:51:29"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:51:30"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"yY11-I3S3llxvSL7AAAv","timestamp":"29-01-2024 12:52:34","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:52:34","userid":"853","username":"Samuel Sr.,Reginald"}
+{"level":"info","timestamp":"29-01-2024 12:53:23"}
+{"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:53:24"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:53:25"}
+{"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:53:26"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:53:26"}
+{"audiorecording":false,"conferencename":"b3bcf6ad-10f9-44dd-9e73-101940c3709e","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"-BOt4bQ6-1pQABDwAAA3","timestamp":"29-01-2024 12:56:13","userid":"262","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel,Reginald was Waiting for Meeting","conferencename":"b3bcf6ad-10f9-44dd-9e73-101940c3709e","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 12:56:13","userid":"262","username":"Samuel,Reginald"}
+{"level":"info","timestamp":"29-01-2024 12:56:14"}
+{"conferencename":"b3bcf6ad-10f9-44dd-9e73-101940c3709e","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 12:59:40"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 12:59:41"}
+{"audiorecording":false,"conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"5CDgvX1Zc5tSgQomAAA9","timestamp":"29-01-2024 13:03:01","userid":"262","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel,Reginald was Waiting for Meeting","conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:03:01","userid":"262","username":"Samuel,Reginald"}
+{"level":"info","timestamp":"29-01-2024 13:03:02"}
+{"conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:03:40"}
+{"conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:03:41"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:03:41"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:03:41"}
+{"WaitingUserStatus":"Gambon,Melody was Waiting for Meeting","conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 13:04:20","userid":"264","username":"Gambon,Melody"}
+{"WaitingUserStatus":"Gambon,Melody was Waiting for Meeting","conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:04:20","userid":"264","username":"Gambon,Melody"}
+{"level":"info","timestamp":"29-01-2024 13:04:21"}
+{"level":"info","timestamp":"29-01-2024 13:04:21"}
+{"conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","displayname":"Gambon,Melody","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:04:38"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:04:38"}
+{"WaitingUserStatus":"Gambon,Melody was Waiting for Meeting","conferencename":"839a68a0-2624-4f78-bd87-0d9f27745227","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 13:06:21","userid":"264","username":"Gambon,Melody"}
+{"WaitingUserStatus":"Gambon,Melody was Waiting for Meeting","conferencename":"839a68a0-2624-4f78-bd87-0d9f27745227","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:06:21","userid":"264","username":"Gambon,Melody"}
+{"level":"info","timestamp":"29-01-2024 13:06:22"}
+{"level":"info","timestamp":"29-01-2024 13:06:22"}
+{"audiorecording":false,"conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"1P4N78hu8wUdyZZxAABP","timestamp":"29-01-2024 13:08:49","userid":"262","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel,Reginald was Waiting for Meeting","conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:08:49","userid":"262","username":"Samuel,Reginald"}
+{"level":"info","timestamp":"29-01-2024 13:08:50"}
+{"conferencename":"2f9cf88e-678a-4c9b-a155-fc55e2a34646","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:12:33"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:12:34"}
+{"audiorecording":false,"conferencename":"5c94a0c6-72a5-4c68-9f3c-a1c32ee80954","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"nVl2TbQsaig8JWzXAABV","timestamp":"29-01-2024 13:13:57","userid":"262","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel,Reginald was Waiting for Meeting","conferencename":"5c94a0c6-72a5-4c68-9f3c-a1c32ee80954","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:13:57","userid":"262","username":"Samuel,Reginald"}
+{"level":"info","timestamp":"29-01-2024 13:13:58"}
+{"conferencename":"5c94a0c6-72a5-4c68-9f3c-a1c32ee80954","displayname":"Samuel,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:16:29"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:16:30"}
+{"audiorecording":false,"conferencename":"8567cbf3-e241-49fa-84ec-3dc1d88b5c91","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"kpkyNP3TXnH-lUMVAABb","timestamp":"29-01-2024 13:30:00","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"8567cbf3-e241-49fa-84ec-3dc1d88b5c91","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:30:00","userid":"853","username":"Samuel Sr.,Reginald"}
+{"conferencename":"8567cbf3-e241-49fa-84ec-3dc1d88b5c91","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:30:21"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:30:22"}
+{"conferencename":"8567cbf3-e241-49fa-84ec-3dc1d88b5c91","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:30:23"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:30:24"}
+{"level":"info","timestamp":"29-01-2024 13:30:51"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"rKFbUll7H7UbYCtOAAAD","timestamp":"29-01-2024 13:35:08","userid":"621543232","videorecording":false}
+{"WaitingUserStatus":"Dr.Admin was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:35:08","userid":"621543232","username":"Admin"}
+{"level":"info","timestamp":"29-01-2024 13:35:09"}
+{"audiorecording":false,"conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"BlgjFk9B4WApFO0WAAAC","timestamp":"29-01-2024 13:38:16","userid":"621543232","videorecording":false}
+{"WaitingUserStatus":"Dr.Admin was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:38:16","userid":"621543232","username":"Admin"}
+{"level":"info","timestamp":"29-01-2024 13:38:17"}
+{"audiorecording":false,"channelLink":"https://mhmeet.hive.clinic:3030/recordedvideos/c32b080f-24f2-4383-b664-5b03f15854c4/","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"KacyK_pyG3ib5B9uAAAG","timestamp":"29-01-2024 13:38:20","userid":"621543232","videorecording":true}
+{"WaitingUserStatus":"Dr.Admin was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:38:20","userid":"621543232","username":"Admin"}
+{"level":"info","timestamp":"29-01-2024 13:38:21"}
+{"ClockTimeStatus":"UserAcceptToStartTime","RecordedVideoPath":"/u01/Recordingsc32b080f-24f2-4383-b664-5b03f15854c4/c32b080f-24f2-4383-b664-5b03f15854c4-KacyK_pyG3ib5B9uAAAG-2024-1-29:13:38:21.mp4","RecordingStatus":"RecordStarted","audiorecording":false,"channel":"/u01/Recordingsc32b080f-24f2-4383-b664-5b03f15854c4/c32b080f-24f2-4383-b664-5b03f15854c4-KacyK_pyG3ib5B9uAAAG-2024-1-29:13:38:21.mp4","channelLink":"https://mhmeet.hive.clinic:3030/recordedvideos/c32b080f-24f2-4383-b664-5b03f15854c4/","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","peerid":"KacyK_pyG3ib5B9uAAAG","recordedvideoURL":"https://mhmeet.hive.clinic:3030/recordedvideos/c32b080f-24f2-4383-b664-5b03f15854c4/c32b080f-24f2-4383-b664-5b03f15854c4-KacyK_pyG3ib5B9uAAAG-2024-1-29:13:38:21.mp4","sdpfilename":"rtp-c32b080f-24f2-4383-b664-5b03f15854c4-KacyK_pyG3ib5B9uAAAG.sdp","sessionname":"c32b080f-24f2-4383-b664-5b03f15854c4-KacyK_pyG3ib5B9uAAAG-lbstudio","status":"Dr.Admin was Waiting for Meeting","timestamp":"29-01-2024 13:38:31","userid":"621543232","videorecording":true}
+{"audiorecording":false,"channelLink":"https://mhmeet.hive.clinic:3030/recordedvideos/c32b080f-24f2-4383-b664-5b03f15854c4/","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Joined the conference","peerid":"glOjWkWR86am0Gm8AAAC","timestamp":"29-01-2024 13:44:30","userid":"621543232","videorecording":true}
+{"WaitingUserStatus":"Dr.Admin was Waiting for Meeting","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:44:30","userid":"621543232","username":"Admin"}
+{"level":"info","timestamp":"29-01-2024 13:44:31"}
+{"ClockTimeStatus":"UserAcceptToStartTime","RecordedVideoPath":"/u01/Recordings/c32b080f-24f2-4383-b664-5b03f15854c4/c32b080f-24f2-4383-b664-5b03f15854c4-glOjWkWR86am0Gm8AAAC-2024-1-29:13:44:31.mp4","RecordingStatus":"RecordStarted","audiorecording":false,"channel":"/u01/Recordings/c32b080f-24f2-4383-b664-5b03f15854c4/c32b080f-24f2-4383-b664-5b03f15854c4-glOjWkWR86am0Gm8AAAC-2024-1-29:13:44:31.mp4","channelLink":"https://mhmeet.hive.clinic:3030/recordedvideos/c32b080f-24f2-4383-b664-5b03f15854c4/","conferencename":"c32b080f-24f2-4383-b664-5b03f15854c4","displayname":"Admin","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","peerid":"glOjWkWR86am0Gm8AAAC","recordedvideoURL":"https://mhmeet.hive.clinic:3030/recordedvideos/c32b080f-24f2-4383-b664-5b03f15854c4/c32b080f-24f2-4383-b664-5b03f15854c4-glOjWkWR86am0Gm8AAAC-2024-1-29:13:44:31.mp4","sdpfilename":"rtp-c32b080f-24f2-4383-b664-5b03f15854c4-glOjWkWR86am0Gm8AAAC.sdp","sessionname":"c32b080f-24f2-4383-b664-5b03f15854c4-glOjWkWR86am0Gm8AAAC-lbstudio","status":"Dr.Admin was Waiting for Meeting","timestamp":"29-01-2024 13:44:40","userid":"621543232","videorecording":true}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"2ds5F_0Q0FtQaTCvAAAJ","timestamp":"29-01-2024 13:51:24","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:51:24","userid":"853","username":"Samuel Sr.,Reginald"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"R9L3rpN02vC9uVDTAAAN","timestamp":"29-01-2024 13:51:58","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:51:58","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 13:51:58","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"R9L3rpN02vC9uVDTAAAN","timestamp":"29-01-2024 13:51:59","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 13:51:59"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:51:59"}
+{"level":"info","timestamp":"29-01-2024 13:52:07"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"vonBtrtOEptP_HOkAAAR","timestamp":"29-01-2024 13:52:28","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 13:52:28","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:52:28","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"vonBtrtOEptP_HOkAAAR","timestamp":"29-01-2024 13:52:29","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 13:52:29"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:52:29"}
+{"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:52:35"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:52:35"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"6cGHouRzsM58mHaeAAAW","timestamp":"29-01-2024 13:52:41","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 13:52:41","userid":"853","username":"Samuel Sr.,Reginald"}
+{"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:52:49"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:52:50"}
+{"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"29-01-2024 13:52:53"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 13:52:53"}
+{"level":"info","timestamp":"29-01-2024 13:53:22"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Samuel Sr.,Reginald","isadmin":true,"level":"info","message":"Joined the conference","peerid":"ItPBDw_ogLl3g5oaAAAd","timestamp":"29-01-2024 14:03:11","userid":"853","videorecording":false}
+{"WaitingUserStatus":"Dr.Samuel Sr.,Reginald was Waiting for Meeting","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 14:03:11","userid":"853","username":"Samuel Sr.,Reginald"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"GUcKrCeiXlNleoIWAAAh","timestamp":"29-01-2024 14:03:45","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 14:03:45","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 14:03:45","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"GUcKrCeiXlNleoIWAAAh","timestamp":"29-01-2024 14:03:45","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 14:03:46"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 14:03:46"}
+{"level":"info","timestamp":"29-01-2024 14:03:54"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Admin accepted the request","peerid":"N0jlryKrmPVOqvMmAAAk","timestamp":"29-01-2024 14:04:06","userid":"621543232","videorecording":false}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 14:04:06","username":"Ramtha Hospital ICU"}
+{"AcceptStatus":"Ramtha Hospital ICU accepeted","conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 14:04:06","username":"Ramtha Hospital ICU"}
+{"audiorecording":false,"conferencename":"0f6cc690-102a-4bb4-896a-3f43866ed307","displayname":"Ramtha Hospital ICU","isadmin":false,"level":"info","message":"Joined the conference","peerid":"N0jlryKrmPVOqvMmAAAk","timestamp":"29-01-2024 14:04:06","userid":"621543232","videorecording":false}
+{"level":"info","timestamp":"29-01-2024 14:04:06"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"29-01-2024 14:04:06"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 14:26:01","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"WaitingUserStatus":"Ramtha Hospital ICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 14:26:01","userid":"621543232","username":"Ramtha Hospital ICU"}
+{"level":"info","timestamp":"29-01-2024 14:26:02"}
+{"level":"info","timestamp":"29-01-2024 14:26:03"}
+{"WaitingUserStatus":"Ramtha HospitalICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"29-01-2024 23:01:06","userid":"621543232","username":"Ramtha HospitalICU"}
+{"WaitingUserStatus":"Ramtha HospitalICU was Waiting for Meeting","conferencename":"62c13697-35b3-4000-8b1c-1fa5b942f4fb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"29-01-2024 23:01:06","userid":"621543232","username":"Ramtha HospitalICU"}
+{"level":"info","timestamp":"29-01-2024 23:01:08"}
+{"level":"info","timestamp":"29-01-2024 23:01:08"}

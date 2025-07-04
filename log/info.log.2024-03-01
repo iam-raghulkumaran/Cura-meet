@@ -1,0 +1,6 @@
+{"WaitingUserStatus":"flow was Waiting for Meeting","conferencename":"180e4255-e003-427f-aa45-2d4651c1f268","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"01-03-2024 07:30:27","userid":"1709278225185","username":"flow"}
+{"WaitingUserStatus":"flow was Waiting for Meeting","conferencename":"180e4255-e003-427f-aa45-2d4651c1f268","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","timestamp":"01-03-2024 07:30:27","userid":"1709278225185","username":"flow"}
+{"level":"info","timestamp":"01-03-2024 07:30:28"}
+{"level":"info","timestamp":"01-03-2024 07:30:28"}
+{"conferencename":"180e4255-e003-427f-aa45-2d4651c1f268","displayname":"Flow","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"01-03-2024 07:30:43"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"01-03-2024 07:30:44"}

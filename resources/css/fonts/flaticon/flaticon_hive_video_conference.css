@@ -1,0 +1,113 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_hive_video_conference";
+    src: url("./flaticon_hive_video_conference.woff2?3f28cf4e70da9d5c58fd76789b0db0ae") format("woff2"),
+url("./flaticon_hive_video_conference.woff?3f28cf4e70da9d5c58fd76789b0db0ae") format("woff"),
+url("./flaticon_hive_video_conference.eot?3f28cf4e70da9d5c58fd76789b0db0ae#iefix") format("embedded-opentype"),
+url("./flaticon_hive_video_conference.ttf?3f28cf4e70da9d5c58fd76789b0db0ae") format("truetype"),
+url("./flaticon_hive_video_conference.svg?3f28cf4e70da9d5c58fd76789b0db0ae#flaticon_hive_video_conference") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_hive_video_conference !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-mute-button:before {
+    content: "\f101";
+}
+.flaticon-microphone:before {
+    content: "\f102";
+}
+.flaticon-settings:before {
+    content: "\f103";
+}
+.flaticon-message:before {
+    content: "\f104";
+}
+.flaticon-video-camera:before {
+    content: "\f105";
+}
+.flaticon-friends:before {
+    content: "\f106";
+}
+.flaticon-missed-call:before {
+    content: "\f107";
+}
+.flaticon-multiple-mute:before {
+    content: "\f108";
+}
+.flaticon-no-video:before {
+    content: "\f109";
+}
+.flaticon-record:before {
+    content: "\f10a";
+}
+.flaticon-telephone:before {
+    content: "\f10b";
+}
+.flaticon-group:before {
+    content: "\f10c";
+}
+.flaticon-menu:before {
+    content: "\f10d";
+}
+.flaticon-left-arrow:before {
+    content: "\f10e";
+}
+.flaticon-clock:before {
+    content: "\f10f";
+}
+.flaticon-scroll-bar:before {
+    content: "\f110";
+}
+.flaticon-minimize-video:before {
+    content: "\f111";
+}
+.flaticon-refresh:before {
+    content: "\f112";
+}
+.flaticon-minimize:before {
+    content: "\f113";
+}
+.flaticon-full-screen:before {
+    content: "\f114";
+}
+.flaticon-new-tab:before {
+    content: "\f115";
+}
+.flaticon-capture:before {
+    content: "\f116";
+}
+.flaticon-cast:before {
+    content: "\f117";
+}
+.flaticon-switch:before {
+    content: "\f118";
+}
+.flaticon-switch-1:before {
+    content: "\f119";
+}
+.flaticon-closed-captioning-slash:before {
+    content: "\f11a";
+}
+.flaticon-subtitles:before {
+    content: "\f11b";
+}
+

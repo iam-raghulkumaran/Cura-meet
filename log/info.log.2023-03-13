@@ -1,0 +1,8 @@
+{"WaitingUserStatus":"test two,test was Waiting for Meeting","conferencename":"4b1a4ebd-b312-4eed-ab72-83dbe35661c6","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"13-03-2023 14:02:31","userid":"154781","username":"test two,test"}
+{"level":"info","timestamp":"13-03-2023 14:02:32"}
+{"conferencename":"4b1a4ebd-b312-4eed-ab72-83dbe35661c6","displayname":"Test two,test","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"13-03-2023 14:02:42"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"13-03-2023 14:02:43"}
+{"WaitingUserStatus":"test two,test was Waiting for Meeting","conferencename":"6f7e9f3c-ea27-4d73-9fee-bcbae718c2eb","isadmin":false,"level":"info","message":"Data to LiveBoxNotificationAlert API","timestamp":"13-03-2023 15:13:56","userid":"154781","username":"test two,test"}
+{"level":"info","timestamp":"13-03-2023 15:13:57"}
+{"conferencename":"6f7e9f3c-ea27-4d73-9fee-bcbae718c2eb","displayname":"Test two,test","isadmin":false,"level":"info","message":"Data to LiveBoxNotify API","status":"End the conference Event Passed","timestamp":"13-03-2023 15:14:10"}
+{"level":"info","message":"Success Response from LiveBoxNotify API","timestamp":"13-03-2023 15:14:12"}
